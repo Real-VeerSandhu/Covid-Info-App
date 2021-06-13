@@ -88,7 +88,7 @@ def main():
             elif (age < 30 and (conds == 0 and hot == 0)):
                     st.markdown(f'<p style="font-weight: bold; color:green;">Low Urgency</p>', unsafe_allow_html=True)
             elif (age < 30 and (conds == 0 or hot == 0)):
-                    st.markdown(f'<p style="font-weight: bold; color:green;">Medium Urgency</p>', unsafe_allow_html=True)
+                    st.markdown(f'<p style="font-weight: bold; color:orange;">Medium Urgency</p>', unsafe_allow_html=True)
 
 if __name__ ==  '__main__':
     main()
