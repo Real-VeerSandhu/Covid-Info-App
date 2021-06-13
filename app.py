@@ -45,7 +45,7 @@ def main():
         st.write('Safety Regulations:', random.randint(1,5))
         
     with col2:
-        st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">Toronto Cases by Location</h2>', unsafe_allow_html=True)
+        st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">Cases in Toronto by District</h2>', unsafe_allow_html=True)
 
         loc_select = st.selectbox('Select Your Neighbourhood', keys2)
         loc_id = location_map_toronto[loc_select]
