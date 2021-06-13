@@ -11,7 +11,6 @@ st.write("""
 def main():
     covid_testing_df = pd.read_csv('data/covidtesting.csv')
     vaccine_df = pd.read_csv('data/COVID-19 Vaccine Data.csv')
-    vaccine_df
     centre = pd.read_csv('data/centre.csv')
     centre = centre.drop(columns=['Unnamed: 0'])
     toronto = pd.read_csv('data/toronto_data.csv')
