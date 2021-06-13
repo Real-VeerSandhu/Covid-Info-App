@@ -49,7 +49,7 @@ def main():
         st.write('Waiting Time:', random.randint(1,5))
         st.write('Service:', random.randint(1,5))
         st.write('Safety Regulations:', random.randint(1,5))
-        centre
+    centre
     with col2:
         st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">Toronto Cases by Location</h2>', unsafe_allow_html=True)
 
@@ -62,7 +62,7 @@ def main():
         st.write('Neighbourhood ID: ', int(loc_id))
         st.write('Total Cases: ', int(cases))
         st.write('Rate per 100,000 people: ', per[0])
-        toronto
+    toronto
 
 
 if __name__ ==  '__main__':
