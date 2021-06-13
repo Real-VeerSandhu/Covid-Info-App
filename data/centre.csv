@@ -1,0 +1,2766 @@
+,active,location_id,location_name
+0,Yes,1,Blanche River Health-Kirkland
+1,Yes,2,South Georgian Bay Regional Assessment Centre
+2,Yes,3,Midland Assessment Centre
+3,Yes,4,Milton District Hospital
+4,Yes,5,Oakville Trafalgar Memorial Hospital
+5,Yes,6,Georgetown Hospital
+6,Yes,7,Headwaters Health Care Centre
+7,Yes,8,MacKenzie Health
+8,Yes,9,Markham Stouffville Hospital
+9,Yes,10,Bracebridge Rotary Centre
+10,Yes,11,Huntsville District Memorial Hospital
+11,Yes,12,Orillia Soldiers' Memorial Hospital
+12,Yes,13,Barrie Community Health Centre
+13,Yes,14,Southlake Regional Health Centre
+14,Yes,15,Stevenson Memorial Hospital
+15,Yes,16,COVID-19 Trillium Health Partners - Mississauga Site
+16,Yes,17,Credit Valley Hospital – Drive-Thru
+17,No,18,COVID-19 Trillium Health Partners - Mississauga S
+18,Yes,19,William Osler Health System - Etobicoke COVID 19 Testing Centre
+19,Yes,20,William Osler Health System - Brampton COVID 19 Testing Centre
+20,Yes,21,Almonte General Hospital
+21,Yes,22,Brockville General Hospital
+22,Yes,23,"COVID-19 CHEO Assessment Centre for Infants, Children and Youth at Brewer Park Arena"
+23,Yes,24,COVID-19 Assessment Centre for Adults at Brewer Park Arena
+24,Yes,25,Cornwall COVID-19 Assessment Centre
+25,Yes,26,Akausivik Inuit Family Health Team - COVID-19 Assessment Centre
+26,Yes,27,Haliburton County Assessment Centre
+27,Yes,28,Hawkesbury COVID-19 Assessment Centre
+28,Yes,29,Casselman COVID-19 Assessment Centre
+29,Yes,30,Hawkesbury and District General Hospital - Rockland
+30,Yes,31,COVID-19 Care and Testing Centre – Heron
+31,Yes,32,Kingston Assessment Centre
+32,Yes,33,Lakeridge Health - Oshawa
+33,Yes,34,Lakeridge Health - Ajax Pickering
+34,Yes,35,Lennox and Addington County General Hospital
+35,Yes,36,Akwesasne COVID-19 Assessment Centre
+36,Yes,37,North Hastings COVID-19 Assessment Center
+37,Yes,38,Perth and Smiths Falls District Hospital - Smiths Falls Site
+38,Yes,39,Prince Edward Covid-19 Assessment Centre - Prince Edward Community Centre
+39,Yes,40,COVID-19 Care and Testing Centre –  Moodie
+40,Yes,41,Quinte Healthcare - Quinte Secondary School
+41,Yes,42,Quinte West COVID-19 Assessment Centre/Duncan McDonald Memorial Community Gardens Arena
+42,No,43,Cobden Arena
+43,No,44,Civic Centre
+44,No,45,Pembroke Assessment Centre
+45,No,46,Deep River Assessment Centre
+46,No,47,Arnprior Assessment Centre
+47,No,48,Eganville - Renfrew County Virtual Triage and Assessment Centre
+48,No,49,Renfrew Assessment Centre
+49,No,50,Barry's Bay - Renfrew County Virtual Triage and Assessment Centre
+50,Yes,51,RMH COVID-19 Assessment Centre
+51,Yes,52,Trent Hills COVID19 Assessment Centre
+52,Yes,53,Winchester COVID-19 Assessment Centre- Lions Club Hall
+53,Yes,54,Peterborough COVID Assessment Centre - Northcrest Arena
+54,Yes,55,Peterborough Regional Health Centre
+55,Yes,56,Northumberland Hills Hospital
+56,Yes,57,Atikokan Family Health Team
+57,Yes,58,Hearst COVID-19 Assessment Centre
+58,Yes,59,Chapleau Health Services
+59,Yes,60,Health Sciences North - NEOMO
+60,Yes,61,Primacy Medical Centre
+61,Yes,62,Health Sciences North - Assessment Centre
+62,Yes,63,Dingwall Medical Clinic Building
+63,Yes,64,Elliot Lake Family Health Team
+64,Yes,65,Blanche River Health-Englehart
+65,Yes,66,Espanola & Area COVID Mobile Assessment Centre
+66,Yes,67,North Horizon Health Centre
+67,Yes,68,Hornepayne Community Hospital
+68,Yes,69,Lady Dunn Health Centre
+69,Yes,70,Lake of the Woods District Hospital
+70,Yes,71,Community Health Services Building
+71,Yes,72,Manitoulin Health Centre - Little Current
+72,Yes,73,Manitoulin Health Centre - Mindemoya
+73,Yes,74,Mattawa Hospital
+74,Yes,75,Anson General Hospital site
+75,Yes,76,The Lady Minto Hospital/Boy Scout Hall
+76,Yes,77,Nipigon District Memorial Hospital
+77,Yes,78,North Bay Regional Health Centre
+78,Yes,79,Wilson Memorial General Hospital (Marathon)
+79,Yes,80,North Shore Health Network - Blind River
+80,Yes,81,North Shore Health Network - Thessalon
+81,Yes,82,Rainy River Health Centre
+82,Yes,83,Red Lake/ Ear Falls Assessment Centre
+83,Yes,84,Santé Manitouwadge Health
+84,Yes,85,Sault Area Hospital / Kal Tire
+85,Yes,86,Le Centre des Loisirs
+86,Yes,87,Meno Ya Win Health Centre
+87,Yes,88,Smooth Rock Falls Hospital
+88,Yes,89,Superior North EMS Community Paramedicine Program
+89,Yes,90,Temiskaming Hospital
+90,Yes,91,Thunder Bay Assessment Centre
+91,Yes,92,Timmins COVID-19 Assessment Centre
+92,Yes,93,Weeneebayko Area Health Authority
+93,Yes,94,Fort Albany Hospital
+94,Yes,95,Attawapiskat Hospital
+95,Yes,96,Moosonee Health Centre
+96,Yes,97,Kashechewan Health Services
+97,Yes,98,Peawanuck Nursing Station
+98,Yes,99,West Nipissing General Hospital
+99,Yes,100,Parry Sound Mall
+100,Yes,101,"North of Superior Health Group - McCausland, Terrace Bay"
+101,Yes,102,Humber River Hospital Assessment Centre - Finch
+102,No,103,Michael Garron Hospital - Emergency Department
+103,Yes,104,Michael Garron Hospital COVID-19 Assessment Centre
+104,Yes,105,Taylor-Massey (Crescent Town) Temporary Testing Site
+105,Yes,106,Mount Sinai Hospital
+106,Yes,107,North York General Hospital - Branson
+107,Yes,108,North York General Hospital - Emergency Department
+108,No,109,Scarborough Health Network - Birchmount
+109,No,110,Scarborough Health Network Centenary Site
+110,Yes,111,Sunnybrook Health Sciences Centre
+111,Yes,112,Toronto Western Hospital
+112,Yes,113,St. Joseph's Health Centre
+113,Yes,114,St. Michael's Hospital
+114,Yes,115,Women's College Hospital
+115,Yes,116,Bluewater Health Sarnia
+116,Yes,117,Brant Community Healthcare System
+117,Yes,118,Cambridge Assessment Centre
+118,Yes,119,Chatham-Kent Health Alliance
+119,Yes,120,Erie Shores Healthcare
+120,Yes,121,Goderich COVID Assessment Centre - Memorial Arena
+121,Yes,122,Grand River Hospital COVID-19 Testing Centre
+122,Yes,123,Grand River Hospital - Drive Thru COVID-19 Assessment Center
+123,Yes,124,Grey Bruce Health Services - Owen Sound
+124,Yes,125,Guelph General Hospital
+125,Yes,126,Dave Andreychuk Mountain Arena Assessment Centre
+126,Yes,127,Hamilton Health Sciences
+127,Yes,128,Hanover and District Hospital
+128,Yes,129,Joseph Brant Hospital
+129,Yes,130,Listowel Wingham Hospitals Alliance
+130,Yes,131,Oakridge Arena
+131,Yes,132,The Wellington Assessment Centre - Fergus
+132,Yes,133,Niagara Health Greater Niagara General Site
+133,Yes,134,Niagara Health St. Catharines Site
+134,Yes,135,Rural Lambton Assessment Centre
+135,Yes,136,Six Nations COVID-19 Assessment & Drive-Through Test Centre
+136,Yes,137,South Bruce Grey Health Centre - Kincardine Site
+137,Yes,138,Grand Bend Testing Centre
+138,Yes,139,St. Joseph's Healthcare Hamilton - East End
+139,Yes,140,Carling Heights Optimist Community Centre
+140,No,141,Kitchener-Waterloo-Wilmot-Wellesley-Woolwich (KW4) COVID-19 Assessment Centre - Westmount Plaza
+141,Yes,142,St. Mary's General Hospital - Bathurst Site
+142,Yes,143,St. Thomas Elgin General Hospital
+143,Yes,144,Tillsonburg District Memorial Hospital
+144,Yes,145,West Haldimand General Hospital
+145,Yes,146,Windsor Regional Hospital - Ouellette Campus
+146,Yes,147,Woodstock General Hospital
+147,Yes,148,Huron Perth Healthcare Alliance COVID-19 Assessment Centre
+148,Yes,149,Niagara Health - Welland Hospital Site (WHS)
+149,No,150,Killaloe - Killaloe Curling Club/Renfrew County Virtual Triage and Assessment Centre
+150,Yes,151,Royal Victoria Regional Health Centre - COVID-19 Testing Centre
+151,Yes,152,North Durham COVID-19 Assessment Centre - Prince Albert Hall Community Centre
+152,Yes,153,Goderich Assessment Centre
+153,Yes,154,Clarington COVID-19 Assessment Centre
+154,No,156,Mackenzie Health - Vaughan
+155,Yes,157,Temagami Medical Centre and Family Health Team
+156,Yes,158,St. Michael's Catholic Church
+157,Yes,159,Bracebridge Assessment Centre
+158,Yes,160,Windsor Regional Hospital - St Clair Campus Assessment Centre
+159,Yes,161,Coventry Road COVID-19 Drive-Thru Assessment Centre
+160,Yes,162,Huntsville COVID-19 Assessment Centre
+161,No,163,Michael Garron Hospital - Crescent Town Health Centre
+162,Yes,164,Haldimand War Memorial Hospital
+163,Yes,165,Haileybury Family Health Team
+164,Yes,166,Alexandria COVID-19 Assessment Centre
+165,Yes,167,Shoppers Drug Mart
+166,Yes,168,Shoppers Drug Mart
+167,Yes,169,Shoppers Drug Mart
+168,Yes,170,Shoppers Drug Mart
+169,Yes,171,Shoppers Drug Mart
+170,Yes,172,Shoppers Drug Mart
+171,Yes,173,Shoppers Drug Mart
+172,Yes,174,Shoppers Drug Mart
+173,Yes,175,Shoppers Drug Mart
+174,Yes,176,Shoppers Drug Mart
+175,Yes,177,Shoppers Drug Mart
+176,Yes,178,Shoppers Drug Mart
+177,Yes,179,Shoppers Drug Mart
+178,Yes,180,Shoppers Drug Mart
+179,Yes,181,Shoppers Drug Mart
+180,Yes,182,Shoppers Drug Mart
+181,Yes,183,Shoppers Drug Mart
+182,Yes,184,Shoppers Drug Mart
+183,Yes,185,Shoppers Drug Mart
+184,Yes,186,Shoppers Drug Mart
+185,Yes,187,Shoppers Drug Mart
+186,Yes,188,Shoppers Drug Mart
+187,Yes,189,Shoppers Drug Mart
+188,Yes,190,Shoppers Drug Mart
+189,Yes,191,Shoppers Drug Mart
+190,Yes,192,Shoppers Drug Mart
+191,Yes,194,Shoppers Drug Mart
+192,Yes,195,Shoppers Drug Mart
+193,Yes,196,Shoppers Drug Mart
+194,Yes,197,Shoppers Drug Mart
+195,Yes,198,Shoppers Drug Mart
+196,Yes,199,Shoppers Drug Mart
+197,Yes,200,Shoppers Drug Mart
+198,Yes,201,Shoppers Drug Mart
+199,Yes,202,Shoppers Drug Mart
+200,Yes,203,Shoppers Drug Mart
+201,Yes,204,Shoppers Drug Mart
+202,Yes,205,Shoppers Drug Mart
+203,Yes,206,Shoppers Drug Mart
+204,Yes,207,Shoppers Drug Mart
+205,Yes,208,Shoppers Drug Mart
+206,Yes,209,Shoppers Drug Mart
+207,Yes,210,Junction Chemist Pharmacy
+208,Yes,211,Extra Mile Pharmacy
+209,Yes,212,Whole Health Pharmacy Cooksville
+210,Yes,213,Liberty Market Pharmacy
+211,Yes,214,Hybrid Pharm
+212,Yes,216,The Medicine Shoppe Pharmacy
+213,Yes,217,The Medicine Shoppe Pharmacy
+214,Yes,218,Village Square Pharmacy
+215,Yes,219,Rexall
+216,Yes,220,Rexall
+217,Yes,221,Rexall
+218,Yes,222,Rexall
+219,Yes,223,Rexall
+220,Yes,224,Rexall
+221,Yes,225,Shoppers Drug Mart
+222,Yes,226,Shoppers Drug Mart
+223,Yes,227,Shoppers Drug Mart
+224,Yes,228,Shoppers Drug Mart
+225,Yes,229,Shoppers Drug Mart
+226,Yes,230,Shoppers Drug Mart
+227,Yes,231,Shoppers Drug Mart
+228,Yes,232,Shoppers Drug Mart
+229,Yes,233,Shoppers Drug Mart
+230,Yes,234,Shoppers Drug Mart
+231,Yes,235,Shoppers Drug Mart
+232,Yes,236,Shoppers Drug Mart
+233,Yes,237,Shoppers Drug Mart
+234,Yes,238,Shoppers Drug Mart
+235,Yes,239,Shoppers Drug Mart
+236,Yes,240,Shoppers Drug Mart
+237,Yes,241,Shoppers Drug Mart
+238,Yes,242,Shoppers Drug Mart
+239,Yes,243,Glen Cade Pharmacy
+240,Yes,244,Vanier Pharmacy
+241,Yes,245,Shoppers Drug Mart
+242,Yes,246,Shoppers Drug Mart
+243,Yes,247,Shoppers Drug Mart
+244,Yes,248,Shoppers Drug Mart
+245,Yes,249,Shoppers Drug Mart
+246,Yes,250,Shoppers Drug Mart
+247,Yes,251,Shoppers Drug Mart
+248,Yes,252,Shoppers Drug Mart
+249,Yes,253,Humber River Hospital - Church Street
+250,Yes,254,Shoppers Drug Mart
+251,Yes,255,Thorncliffe Park Temporary Testing Site
+252,Yes,256,Shoppers Drug Mart
+253,Yes,257,Downtown Oshawa COVID-19 Assessment Centre
+254,Yes,258,Shoppers Drug Mart
+255,Yes,259,Shoppers Drug Mart
+256,Yes,260,Norfolk General Hospital Assessment Centre
+257,Yes,261,North Grenville COVID-19 Assessment Centre
+258,Yes,262,Shoppers Drug Mart
+259,Yes,263,Scarborough Health Network - General Hospital
+260,Yes,264,Shoppers Drug Mart
+261,Yes,265,Shoppers Drug Mart
+262,Yes,266,The Wellington Assessment Centre - Harriston
+263,Yes,267,Shoppers Drug Mart
+264,Yes,268,Rapids Family Health Team COVID-19 Assessment Centre
+265,Yes,269,St. Joseph’s Healthcare Hamilton’s Mountain COVID-19 Testing Centre
+266,Yes,270,Shoppers Drug Mart
+267,Yes,271,Shoppers Drug Mart
+268,Yes,272,Shoppers Drug Mart
+269,Yes,273,Shoppers Drug Mart
+270,Yes,274,Shoppers Drug Mart
+271,Yes,275,Shoppers Drug Mart
+272,Yes,276,Shoppers Drug Mart
+273,Yes,277,Shoppers Drug Mart
+274,Yes,278,Shoppers Drug Mart
+275,Yes,279,Shoppers Drug Mart
+276,Yes,280,Shoppers Drug Mart
+277,Yes,281,Shoppers Drug Mart
+278,Yes,282,Shoppers Drug Mart
+279,Yes,283,Shoppers Drug Mart
+280,Yes,284,Shoppers Drug Mart
+281,Yes,285,Shoppers Drug Mart
+282,Yes,286,Shoppers Drug Mart
+283,Yes,287,Shoppers Drug Mart
+284,Yes,288,Shoppers Drug Mart
+285,Yes,289,Shoppers Drug Mart
+286,Yes,290,Shoppers Drug Mart
+287,Yes,291,Shoppers Drug Mart
+288,Yes,292,Shoppers Drug Mart
+289,Yes,293,Shoppers Drug Mart
+290,No,294,Limoge COVID-19 Testing Centre
+291,Yes,296,Rexall
+292,Yes,297,Rexall
+293,Yes,298,Rexall
+294,Yes,299,Rexall
+295,Yes,300,Rexall
+296,Yes,301,Rexall
+297,Yes,302,Rexall
+298,Yes,303,Rexall
+299,Yes,304,Rexall
+300,Yes,305,The Medicine Shoppe Pharmacy
+301,Yes,306,The Medicine Shoppe Pharmacy
+302,Yes,307,The Medicine Shoppe Pharmacy
+303,Yes,308,Kennedy Medical Plex Pharmacy I.D.A.
+304,Yes,309,London Medical Plex Pharmacy
+305,Yes,310,Credit Ridge Remedy’s Rx Pharmacy
+306,Yes,311,Medpoint Care Pharmacy
+307,Yes,312,Pharmasave Loyalist Pharmacy
+308,Yes,313,Metro Drugs
+309,Yes,314,Metro Drugs
+310,Yes,315,Pharmaessence Drug Mart
+311,Yes,316,TMC Pharmacy
+312,Yes,317,Chatham Family Pharmacy
+313,Yes,318,Pharmore Pharmacy
+314,Yes,319,Pharmasave Simpson's Pharmacy
+315,Yes,320,Lancaster Wellness Pharmacy - Guardian
+316,Yes,321,Dale's Pharmacy Parliament
+317,Yes,322,Pharmasave Keele and Finch Pharmacy
+318,Yes,323,Winston Churchill and Dundas Pharmacy
+319,Yes,324,Pharmasave Huron Street
+320,Yes,325,Hauser's Pharmacy
+321,Yes,326,Bloor-Sherbourne Pharmacy
+322,Yes,327,COVID-19 Care and Testing Centre - Ray Friel
+323,Yes,328,Pharmasave Marsellus
+324,Yes,329,Main Drug Mart
+325,Yes,330,Walmart
+326,Yes,331,Centretown Pharmacy
+327,Yes,332,MediOne Rx
+328,Yes,333,Brady's Drug Store
+329,Yes,334,Pharmasave Erin Creek Pharmacy
+330,Yes,335,Pharmasave Eagle Manor
+331,Yes,336,Whitby COVID19 – Assessment Centre
+332,Yes,337,Long Sault Pharmasave
+333,Yes,339,Pharmacy 101
+334,Yes,340,Pharmasave Morrison Pharmacy
+335,Yes,341,Saver's PharmaChoice
+336,Yes,342,Walmart
+337,Yes,343,Walmart
+338,Yes,344,Auduzhe Mino Nesewinong (Place of Healthy Breathing)
+339,Yes,345,Pharmacie Jean Coutu Pharmacy
+340,Yes,346,Matheson Bingham Memorial Assessment Centre
+341,Yes,347,Central Weston Pharmacy
+342,Yes,348,Hogan Pharmacy
+343,Yes,350,Chancellors Way Pharmacy
+344,Yes,351,Med+ Pharmacy
+345,Yes,352,East York Temporary Testing Site
+346,Yes,353,Flemingdon Park Temporary Testing Site #1
+347,Yes,354,Flemingdon Park Temporary Testing Site #2
+348,Yes,355,South Riverdale Temporary Testing Site
+349,Yes,356,Warden Woods (Scarborough) Temporary Testing Site
+350,Yes,358,Wasaga Beach Regional Assessment Centre
+351,Yes,359,Grey Bruce Health Services - Southampton
+352,Yes,360,Oxford County Paramedic Services Mobile COVID-19 Testing
+353,Yes,361,Alexandra Hospital Ingersoll Assessment Centre
+354,Yes,362,Grey Bruce Health Services Lion's Head
+355,Yes,363,Central Pickering AC
+356,Yes,364,Shoppers Drug Mart
+357,Yes,366,Shoppers Drug Mart
+358,Yes,367,Shoppers Drug Mart
+359,Yes,368,Shoppers Drug Mart
+360,Yes,369,Fairview Medical Pharmacy
+361,No,370,McNabb Community Centre
+362,Yes,371,COVID 19 Testing Clinic Innisfil
+363,Yes,372,3427 Derry Road East - LifeLabs
+364,Yes,373,BramCity Pharmasave
+365,Yes,374,Midha Pharmacy Inc
+366,Yes,375,Shoppers Drug Mart
+367,Yes,376,Shoppers Drug Mart
+368,Yes,377,Shoppers Drug Mart
+369,Yes,378,Shoppers Drug Mart
+370,Yes,379,600 Matheson Blvd West - Dynacare
+371,Yes,380,10 Cottrelle Blvd - Dynacare
+372,Yes,381,7700 Hurontario - Dynacare
+373,Yes,382,9525 Mississauga Road - Dynacare
+374,Yes,383,Village Square Pharmacy
+375,Yes,384,Shoppers Drug Mart
+376,Yes,385,Shoppers Drug Mart
+377,Yes,386,Shoppers Drug Mart
+378,Yes,387,Shoppers Drug Mart
+379,Yes,388,Shoppers Drug Mart
+380,Yes,389,Shoppers Drug Mart
+381,Yes,390,Shoppers Drug Mart
+382,Yes,391,Shoppers Drug Mart
+383,Yes,392,Shoppers Drug Mart
+384,Yes,393,Shoppers Drug Mart
+385,Yes,394,Shoppers Drug Mart
+386,Yes,395,Shoppers Drug Mart
+387,Yes,396,Shoppers Drug Mart
+388,Yes,397,Shoppers Drug Mart
+389,Yes,398,Shoppers Drug Mart
+390,Yes,399,Shoppers Drug Mart
+391,Yes,400,Shoppers Drug Mart
+392,Yes,401,Shoppers Drug Mart
+393,Yes,402,Shoppers Drug Mart
+394,Yes,403,Shoppers Drug Mart
+395,Yes,404,Shoppers Drug Mart
+396,Yes,405,Shoppers Drug Mart
+397,Yes,406,Shoppers Drug Mart
+398,Yes,407,Shoppers Drug Mart
+399,Yes,408,Shoppers Drug Mart
+400,Yes,409,Shoppers Drug Mart
+401,Yes,410,Shoppers Drug Mart
+402,Yes,411,Shoppers Drug Mart
+403,Yes,412,Shoppers Drug Mart
+404,Yes,414,"COVID-19 Assessment Centre for Children with Medical Complexity (CMC) and Children with Developmental Disorders (CDD), Holland Bloorview Kids Rehab Hospital"
+405,Yes,415,"COVID-19 Assessment Centre for Children with Medical Complexity (CMC) and Children with Developmental Disorders (CDD), SickKids"
+406,Yes,416,North Durham COVID Assessment Clinic - Sunderland Site
+407,No,417,Thorncliffe Park Temporary Testing Site #2
+408,Yes,418,Oakridge (Scarborough) Temporary Testing Site
+409,Yes,419,Walmart
+410,Yes,420,North Durham COVID Assessment Clinic - Beaverton Site
+411,Yes,421,Walmart
+412,Yes,422,"Barrie and Community Family Medicine Clinic COVID-19, Cold and Flu"
+413,No,423,North Durham COVID Assessment Clinic - Manilla Site
+414,Yes,424,Four Corners CHC - Community Testing Site
+415,Yes,425,Rexdale Hub COVID-19 Community Testing Site
+416,Yes,426,"Queen Square COVID-19, Cold and Flu Clinic"
+417,Yes,427,Dufferin-Caledon COVID-19 Cold and Flu Clinic
+418,Yes,428,Mississauga Health Cough and Flu Clinic
+419,Yes,429,Lawn Bowling Club Community Testing Site
+420,Yes,431,West Elgin Community Health Centre COVID Assessment Centre
+421,Yes,432,1210 Castlemore Ave - Dynacare
+422,Yes,433,Town Square Pharmacy
+423,Yes,434,SOAHAC Chippewa Assessment Centre
+424,Yes,435,MyHealth Community Testing Site
+425,Yes,436,Embassy Grand Convention Centre - Community Testing Site
+426,Yes,437,Carefirst One-Stop Multi-Services Centre
+427,Yes,438,Black Creek Community Health Centre - Sheridan Mall
+428,Yes,439,Durham Manor - Pickering Assessment Centre
+429,No,440,Rexdale CHC - Pop-Up Sites
+430,Yes,441,London InterCommunity Health Centre
+431,Yes,442,MyHealth Centre Covid Response
+432,No,443,Shoppers Drug Mart
+433,No,444,Shoppers Drug Mart
+434,No,445,Shoppers Drug Mart
+435,No,446,Shoppers Drug Mart
+436,No,447,Rexall
+437,No,448,Shoppers Drug Mart
+438,No,449,Shoppers Drug Mart
+439,No,450,Shoppers Drug Mart
+440,No,451,Shoppers Drug Mart
+441,No,452,Rexall
+442,No,453,Shoppers Drug Mart
+443,No,454,Shoppers Drug Mart
+444,No,455,Shoppers Drug Mart
+445,No,456,Rexall
+446,No,457,Shoppers Drug Mart
+447,No,458,Shoppers Drug Mart
+448,No,459,Rexall
+449,No,460,Shoppers Drug Mart
+450,No,461,Shoppers Drug Mart
+451,No,462,Shoppers Drug Mart
+452,No,463,Loblaws
+453,No,464,Shoppers Drug Mart
+454,No,465,Shoppers Drug Mart
+455,No,466,Shoppers Drug Mart
+456,No,467,Shoppers Drug Mart
+457,No,468,Rexall
+458,No,469,Shoppers Drug Mart
+459,No,470,Rexall
+460,No,471,Shoppers Drug Mart
+461,No,472,Shoppers Drug Mart
+462,No,473,Shoppers Drug Mart
+463,No,474,Shoppers Drug Mart
+464,No,475,Rexall
+465,No,476,Shoppers Drug Mart
+466,No,477,Shoppers Drug Mart
+467,No,478,Shoppers Drug Mart
+468,No,479,Rexall
+469,No,480,Rexall
+470,No,481,Rexall
+471,No,482,Rexall
+472,No,483,No Frills
+473,No,484,Rexall
+474,No,485,Rexall
+475,No,486,Shoppers Drug Mart
+476,No,487,Costco Pharmacy
+477,No,488,Rexall
+478,No,489,No Frills
+479,No,490,Shoppers Drug Mart
+480,No,491,Shoppers Drug Mart
+481,No,492,Loblaws
+482,No,493,Rexall
+483,No,494,Shoppers Drug Mart
+484,No,495,Shoppers Drug Mart
+485,No,496,Rexall
+486,No,497,Shoppers Drug Mart
+487,No,498,Shoppers Drug Mart
+488,No,499,Rexall
+489,No,500,Rexall
+490,No,501,Loblaws
+491,No,502,Shoppers Drug Mart
+492,No,503,Rexall
+493,No,504,Shoppers Drug Mart
+494,No,505,Shoppers Drug Mart
+495,No,506,No Frills
+496,No,507,Shoppers Drug Mart
+497,No,508,Costco Pharmacy
+498,No,509,Shoppers Drug Mart
+499,No,510,Shoppers Drug Mart
+500,No,511,Rexall
+501,No,512,Shoppers Drug Mart
+502,No,513,Shoppers Drug Mart
+503,No,514,Costco Pharmacy
+504,No,515,Shoppers Drug Mart
+505,No,516,Rexall
+506,No,517,Shoppers Drug Mart
+507,No,518,Costco Pharmacy
+508,No,519,Shoppers Drug Mart
+509,No,520,Shoppers Drug Mart
+510,No,521,No Frills
+511,No,522,Real Canadian Superstore
+512,No,523,No Frills
+513,No,524,No Frills
+514,No,525,Loblaw
+515,No,526,Rexall
+516,No,527,Shoppers Drug Mart
+517,No,528,Rexall
+518,No,529,Loblaw
+519,No,530,Rexall
+520,No,531,Shoppers Drug Mart
+521,No,532,Shoppers Drug Mart
+522,No,533,Shoppers Drug Mart
+523,No,534,Shoppers Drug Mart
+524,No,535,Loblaw
+525,No,536,No Frills
+526,No,537,Loblaws
+527,No,538,Shoppers Drug Mart
+528,No,539,Shoppers Drug Mart
+529,No,540,Rexall
+530,No,541,Shoppers Drug Mart
+531,No,542,Rexall
+532,No,543,Loblaws
+533,No,544,No Frills
+534,No,545,Rexall
+535,No,546,Real Canadian Superstore
+536,No,547,Shoppers Drug Mart
+537,No,548,Loblaws
+538,No,549,Shoppers Drug Mart
+539,No,550,FreshCo Pharmacy Gerrard & Victoria
+540,No,551,Rexall
+541,No,552,FreshCo Pharmacy Lawrence/Midland
+542,No,553,Metro Pharmacy
+543,No,554,Wal-Mart Pharmacy
+544,No,555,Sobeys Pharmacy Rosebury
+545,No,556,Wal-Mart Pharmacy
+546,No,557,Wal-Mart Pharmacy
+547,No,558,Wal-Mart Pharmacy
+548,No,559,Pharmasave Toronto East
+549,No,560,Junction Pharmacy
+550,No,561,High Park Pharmacy
+551,No,562,Welcome Guardian Drugs (Roncesvalles)
+552,No,563,Sam's I.D.A. Pharmacy
+553,No,564,Birchmount Pharmasave
+554,No,565,Green Pharmacy
+555,No,566,Canadian Compounding Pharmacy
+556,No,567,Sanomed Pharmacy & Compounding Centre
+557,No,568,Orton Park Guardian Pharmacy
+558,No,569,Lingeman I.D.A. Pharmacy
+559,No,570,Pharmasave Cedarcourt Pharmacy
+560,No,571,Vina Pharmacy
+561,No,572,Dynasty Pharmacy
+562,No,573,Lawrence Pharmacy
+563,No,574,One Eva Pharmacy
+564,No,575,Rylander Pharmasave
+565,No,576,Lefko Pharmasave #794
+566,No,577,East York Pharmasave
+567,No,578,Ava Pharmacy
+568,No,579,Well+Good Pharmacy
+569,No,580,Kennedy Road Pharmacy
+570,No,581,Care and Health Pharmacy
+571,No,582,People's Choice Remedy's Rx
+572,No,583,Keele-Ingram Pharmacy
+573,No,584,Health Check Pharmacy Pharmasave
+574,No,585,Victoria Commons Pharmacy
+575,No,586,Unicare Pharmacy
+576,No,587,Clinicplus I.D.A. Pharmacy
+577,No,588,Northcliffe Pharmacy
+578,No,589,Aria Pharmacy
+579,No,590,HealthSmart Pharmasave
+580,No,591,New Caledonia Pharmacy
+581,No,592,Greendale Drugs
+582,No,593,Friendly Care West King Pharmacy
+583,No,594,Kipling & Queensway Pharmacy
+584,No,595,The Medicine Shoppe Pharmacy
+585,No,596,Bathurst Wilson I.D.A. Pharmacy
+586,No,597,City Pharmacy Remedy's Rx
+587,No,598,Allcures Pharmacy
+588,No,599,Wal-Mart Pharmacy
+589,No,600,Wal-Mart Pharmacy
+590,No,601,Real Canadian Superstore
+591,No,602,Zehrs Markets
+592,No,603,Zehrs Markets
+593,No,604,Wal-Mart Pharmacy
+594,No,605,Zehrs Markets
+595,No,606,Zehrs Markets
+596,No,607,Sobeys Pharmacy Lakeshore
+597,No,608,Costco Pharmacy
+598,No,609,Real Canadian Superstore
+599,No,610,Wal-Mart Pharmacy
+600,No,611,Healthpoint Pharmacy and Clinic
+601,No,612,Rob's Whole Health Pharmacy
+602,No,613,Medica Pharmacy
+603,No,614,Windsor Avenue Pharmacy
+604,No,615,Shoppers Drug Mart
+605,No,616,Shoppers Drug Mart
+606,No,617,Westside Pharmacy Pharmasave
+607,No,618,Rexall
+608,No,619,Rexall
+609,No,620,Ziter Pharmacy
+610,No,621,Bradys Drug Store Belle River
+611,No,622,Rexall
+612,No,623,Rexall
+613,No,624,Shoppers Drug Mart
+614,No,625,Shoppers Drug Mart
+615,No,626,Shoppers Drug Mart
+616,No,627,Novacare Pharmacy
+617,No,628,Shoppers Drug Mart
+618,No,629,Shoppers Drug Mart
+619,No,630,Shoppers Drug Mart
+620,No,631,Shoppers Drug Mart
+621,No,632,Shoppers Drug Mart
+622,No,633,Shoppers Drug Mart
+623,No,634,Shoppers Drug Mart
+624,No,635,Shoppers Drug Mart
+625,No,636,Shoppers Drug Mart
+626,No,637,Shoppers Drug Mart
+627,No,638,Downtown Windsor Pharmacy
+628,No,639,No Frills
+629,No,640,Shoppers Drug Mart
+630,No,641,Loblaws
+631,No,642,No Frills
+632,No,643,Loblaws
+633,No,644,Shoppers Drug Mart
+634,No,645,Costco Pharmacy
+635,No,646,No Frills
+636,No,647,FreshCo Pharmacy Princess
+637,No,648,Wal-Mart Pharmacy
+638,No,649,Barriefield Pharmasave
+639,No,650,Clinic Pharmacy
+640,No,651,Milford Pharmacy
+641,No,652,Gardiner's Pharmasave
+642,No,653,Wal-Mart Pharmacy
+643,No,654,Pharmasave Sharbot Lake
+644,No,655,Peters Drugs PharmaChoice
+645,No,656,Frontenac Medical Pharmacy
+646,No,657,Tobia's Guardian Pharmacy
+647,No,658,Inverary Pharmasave
+648,No,659,Medical Tree
+649,No,660,Harrowsmith Pharmacy
+650,No,661,Amherstview Drugs
+651,No,662,Shoppers Drug Mart
+652,No,663,Shoppers Drug Mart
+653,No,664,Shoppers Drug Mart
+654,No,665,Shoppers Drug Mart
+655,No,666,CATP Kingston
+656,No,667,Shoppers Drug Mart
+657,No,668,Rexall
+658,No,669,Rexall
+659,No,670,Shoppers Drug Mart
+660,No,671,Rexall
+661,No,672,Rexall
+662,No,673,Shoppers Drug Mart
+663,No,674,Shoppers Drug Mart
+664,No,675,Shoppers Drug Mart
+665,No,676,Weller Pharmacy
+666,No,677,Bath Family Pharmacy
+667,No,678,Shoppers Drug Mart
+668,No,679,Shoppers Drug Mart
+669,No,680,Shoppers Drug Mart
+670,No,681,Shoppers Drug Mart
+671,No,682,Loblaw
+672,No,683,Shoppers Drug Mart
+673,No,684,Shoppers Drug Mart
+674,No,685,Shoppers Drug Mart
+675,No,686,Loblaws
+676,No,687,Shoppers Drug Mart
+677,No,688,Fortinos
+678,No,689,Shoppers Drug Mart
+679,No,690,Shoppers Drug Mart
+680,No,691,Snowden Pharmacy
+681,No,692,Beaches Pharmacy
+682,No,693,Markland Wood Pharmacy
+683,No,694,Pharmasave - Spadina's Neighbourhood Pharmacy
+684,No,695,Premier Pharmacy and Compounding Centre
+685,No,696,Forest Hill Pharmacy
+686,No,697,Main Drug Mart
+687,No,698,Pharmasave
+688,No,699,Total Health Pharmacy
+689,No,700,Nhatrang Drug Mart
+690,No,701,Weston Jane Pharmacy
+691,No,702,Jarvis St. Apothecary
+692,No,703,Nor-Arm Pharmacy
+693,No,704,Mortar + Pestle Compounding Pharmacy
+694,No,705,Lakeside Pharmacy
+695,No,706,Victoria Park Pharmacy
+696,No,707,Symington Pharmacy
+697,No,708,Westminster Pharmacy
+698,No,709,Real Canadian Superstore
+699,No,710,Neighborhood Drug Store
+700,No,711,Kingsville IDA Pharmacy
+701,No,712,Shoppers Drug Mart
+702,No,713,Central Drug Mart
+703,No,714,Central Drug Mart Pharmachoice
+704,No,715,Division Pharmacy
+705,No,716,Medical Arts Pharmacy
+706,No,717,Lovell Drugs
+707,No,718,Pharmacare Drug Mart
+708,No,719,Markham Corners Pharmacy
+709,No,720,Lawlor Pharmasave
+710,No,721,Islington Medical Pharmacy
+711,No,722,Lapsley Pharmacy
+712,No,723,Whole Health Pharmacy
+713,No,724,Healing Source Pharmacy
+714,No,725,I CARE Pharmacy Services
+715,Yes,726,Kettle & Stony Point First Nation Health Centre
+716,Yes,727,Walpole Island Health Centre
+717,Yes,728,Aamjiwnaang Health Centre
+718,Yes,729,Carefirst Markham Presbyterian Church - Community Testing Site
+719,Yes,730,Carefirst YMCA - Community Testing Site
+720,Yes,731,Islamic Society of Markham- Community Testing Site
+721,Yes,732,Etobicoke UCC COVID -19 Testing Site
+722,Yes,733,Vaughan CHC Community Testing Site
+723,Yes,734,Shoppers Drug Mart
+724,Yes,735,Frederick Mall Pharmacy
+725,Yes,736,Shoppers Drug Mart
+726,Yes,737,Your Independent Grocer
+727,Yes,738,West End Pharmacy
+728,Yes,739,Rexall
+729,Yes,740,Zehrs Markets
+730,Yes,741,Sobeys Pharmacy
+731,Yes,742,Shoppers Drug Mart
+732,Yes,743,Rexall
+733,Yes,744,Mactavish Pharmacy
+734,Yes,745,Costco Pharmacy
+735,Yes,746,Costco Pharmacy
+736,Yes,747,Shoppers Drug Mart
+737,Yes,748,Shoppers Drug Mart
+738,Yes,749,Pringle Creek Pharmasave
+739,Yes,750,Shoppers Drug Mart
+740,Yes,751,Shoppers Drug Mart
+741,Yes,752,Rexall
+742,Yes,753,Health-Rite Pharmacy
+743,Yes,754,Rexall
+744,Yes,755,Real Canadian Superstore
+745,Yes,756,Port Perry Remedy's Rx
+746,Yes,757,Pharmasave Uxbridge Med Pharm
+747,Yes,758,Rexall Pharma Plus
+748,Yes,759,Rexall
+749,Yes,760,Pharmacy Associates Of Port Perry
+750,Yes,761,Lovell Drugs
+751,Yes,762,Wal-Mart Pharmacy
+752,Yes,763,Lovell Drugs Whitby
+753,Yes,764,Superseven Pharmacy
+754,Yes,765,Pharmacie Jean Coutu
+755,Yes,766,Seaway Valley Pharmacy
+756,Yes,767,Embrun Remedy's Rx
+757,Yes,768,Thornbury Pharmacy
+758,Yes,769,Markdale Pharmacy
+759,Yes,770,Kristen's Pharmacy
+760,Yes,771,Wal-Mart Pharmacy
+761,Yes,772,Shoppers Drug Mart
+762,Yes,773,Hausers Pharmacy
+763,Yes,774,Port Hope Pharmasave
+764,Yes,775,Wal-Mart Pharmacy
+765,Yes,776,Rx Drug Mart
+766,Yes,777,Costco Pharmacy
+767,Yes,778,Shoppers Drug Mart
+768,Yes,779,Shoppers Drug Mart
+769,Yes,780,Mount Royal Pharmacy Ltd
+770,Yes,781,Young's Pharmacy And Homecare
+771,Yes,782,Shoppers Drug Mart
+772,Yes,783,Rexall
+773,Yes,784,Wal-Mart Pharmacy
+774,Yes,785,Shoppers Drug Mart
+775,Yes,786,Metro Pharmacy
+776,Yes,787,Shoppers Drug Mart
+777,Yes,788,Shoppers Drug Mart
+778,Yes,789,Rexall
+779,Yes,790,Rexall
+780,Yes,791,Rexall
+781,Yes,792,Wal-Mart Pharmacy
+782,Yes,793,Wal-Mart Pharmacy
+783,Yes,794,Real Canadian Superstore
+784,Yes,795,Costco Pharmacy
+785,Yes,796,Shoppers Drug Mart
+786,Yes,797,Shoppers Drug Mart
+787,Yes,798,Shoppers Drug Mart
+788,Yes,799,Shoppers Drug Mart
+789,Yes,800,Costco Pharmacy
+790,Yes,801,Rexall
+791,Yes,802,Rexall
+792,Yes,803,Rexall
+793,Yes,804,Supercare Pharmacy
+794,Yes,805,Wal-Mart Pharmacy
+795,Yes,806,Rexall
+796,Yes,807,Rexall
+797,Yes,808,Waterdown Pharmacy
+798,Yes,809,Wal-Mart Pharmacy
+799,Yes,810,Westmount Medical Pharmacy
+800,Yes,811,Rexall
+801,Yes,812,Binbrook Pharmacy
+802,Yes,813,Campbellville Pharmacy
+803,Yes,814,Pharma Plus
+804,Yes,815,Kelly's Drug Store
+805,Yes,816,Shoppers Drug Mart
+806,Yes,817,Pharmasave Michael's Pharmacy
+807,Yes,818,Your Independent Grocer
+808,Yes,819,Real Canadian Superstore
+809,Yes,820,Forest Pharmacy
+810,Yes,821,Bright's Grove Family Pharmacy
+811,Yes,822,Shoppers Drug Mart
+812,Yes,823,Wal-Mart Pharmacy
+813,Yes,824,Costco Pharmacy
+814,Yes,825,Shoppers Drug Mart
+815,Yes,826,Shoppers Drug Mart
+816,Yes,827,Costco Pharmacy
+817,Yes,828,Shoppers Drug Mart
+818,Yes,829,Boggio Pharmacy Ltd
+819,Yes,830,Simpson's Pharmacy
+820,Yes,831,Shoppers Drug Mart
+821,Yes,832,Boggio & Edwards Ridgeway IDA
+822,Yes,833,Shoppers Drug Mart
+823,Yes,834,Wal-Mart Pharmacy
+824,Yes,835,Shoppers Drug Mart
+825,Yes,836,Rexall
+826,Yes,837,Rx Drug Mart
+827,Yes,838,Boggio & Mackinnon Pharmacy
+828,Yes,839,Rexall
+829,Yes,840,Wal-Mart Pharmacy
+830,Yes,841,Zehrs Markets
+831,Yes,842,Rexall
+832,Yes,843,Zehrs Markets
+833,Yes,844,Rexall
+834,Yes,845,Simpson's Apothecary
+835,Yes,846,Crescent Park Pharmacy
+836,Yes,847,No Frills
+837,Yes,848,Wal-Mart Pharmacy
+838,Yes,849,Northern Shores Pharmacy
+839,Yes,850,Shoppers Drug Mart
+840,Yes,851,No Frills
+841,Yes,852,Pharmasave Fort Frances
+842,Yes,853,Costco Pharmacy
+843,Yes,854,Costco Pharmacy
+844,Yes,855,Shoppers Drug Mart
+845,Yes,856,Costco Pharmacy
+846,Yes,857,Kanata Pharmasave
+847,Yes,858,Shoppers Drug Mart
+848,Yes,859,Paul's Pharmasave
+849,Yes,860,Your Independent Grocer
+850,Yes,861,Shoppers Drug Mart
+851,Yes,862,Loblaw
+852,Yes,863,Real Canadian Superstore
+853,Yes,864,Loblaw
+854,Yes,865,Rexall
+855,Yes,866,Centrepointe Gabriel Drugs
+856,Yes,867,Shoppers Drug Mart
+857,Yes,868,Wal-Mart Pharmacy
+858,Yes,869,Your Independent Grocer
+859,Yes,870,Rexall
+860,Yes,871,Loblaw
+861,Yes,872,Wal-Mart Pharmacy
+862,Yes,873,Shoppers Drug Mart
+863,Yes,874,Crown Pointe Pharmacy
+864,Yes,875,Pharmasave Cyril Pharmacy
+865,Yes,876,Your Independent Grocer
+866,Yes,877,Good Health Pharmasave
+867,Yes,878,Sobeys Pharmacy
+868,Yes,879,Sobeys Pharmacy
+869,Yes,880,Osgoode Pharmacy
+870,Yes,881,Innes Ideal Pharmacy
+871,Yes,882,Sobeys Pharmacy
+872,Yes,883,Stittsville Whole Health Pharmacy
+873,Yes,884,Apothe Sos Pharmacy
+874,Yes,885,Costco Pharmacy
+875,Yes,886,Costco Pharmacy
+876,Yes,887,Costco Pharmacy
+877,Yes,888,Shoppers Drug Mart
+878,Yes,889,Wal-Mart Pharmacy
+879,Yes,890,Shoppers Drug Mart
+880,Yes,891,Gore Pharmacy IDA
+881,Yes,892,Shoppers Drug Mart
+882,Yes,893,Heritage Hills Pharmacy
+883,Yes,894,Shoppers Drug Mart
+884,Yes,895,Rexall
+885,Yes,896,Metro Pharmacy
+886,Yes,897,Shoppers Drug Mart
+887,Yes,898,Rexall
+888,Yes,899,Rexall
+889,Yes,900,Rexall
+890,Yes,901,Fortinos
+891,Yes,902,No Frills
+892,Yes,903,Rexall
+893,Yes,904,Truscott Pharmacy
+894,Yes,905,Woodland Village Pharmacy
+895,Yes,906,Real Canadian Superstore
+896,Yes,907,Fortinos
+897,Yes,908,Wal-Mart Pharmacy
+898,Yes,909,Carl's IDA Pharmacy
+899,Yes,910,Wal-Mart Pharmacy
+900,Yes,911,Pharmasave
+901,Yes,912,Freshco
+902,Yes,913,Loblaw
+903,Yes,914,Dixie 5 Pharmacy
+904,Yes,915,Apple-Hills Medical Pharmacy
+905,Yes,916,Listowel Remedy's Rx
+906,Yes,917,Costco Pharmacy
+907,Yes,918,Wal-Mart Pharmacy
+908,Yes,919,High St. Guardian Pharmacy
+909,Yes,920,Shoppers Drug Mart
+910,Yes,921,Wallace Drug Store
+911,Yes,922,Rexall
+912,Yes,923,Rexall
+913,Yes,924,Wal-Mart Pharmacy
+914,Yes,925,Wal-Mart Pharmacy
+915,Yes,926,Shoppers Drug Mart
+916,Yes,927,Shoppers Drug Mart
+917,Yes,928,Costco Pharmacy
+918,Yes,929,Shoppers Drug Mart
+919,Yes,930,Shoppers Drug Mart
+920,Yes,931,Shoppers Drug Mart
+921,Yes,932,Rexall
+922,Yes,933,Shoppers Drug Mart
+923,Yes,934,Purehealth Pharmacy
+924,Yes,935,Arcade And Jory Guardian Pharmacy
+925,Yes,936,Rexall
+926,Yes,937,Gravenhurst IDA Pharmacy
+927,Yes,938,Shoppers Drug Mart
+928,Yes,939,Zehrs Markets
+929,Yes,940,Angus Borden Guardian Pharmacy
+930,Yes,941,Rexall
+931,Yes,942,Rexall Pharma Plus
+932,Yes,943,Zehrs Markets
+933,Yes,944,Loblaw
+934,Yes,945,Rexall Pharma Plus
+935,Yes,946,Springwater Pharmacy
+936,Yes,947,Cookstown Pharmasave
+937,Yes,948,ALcona Pharmacy
+938,Yes,949,Shoppers Drug Mart
+939,Yes,950,Ingersoll Pharmasave
+940,Yes,951,Ingersoll Remedy's Rx
+941,Yes,952,Shoppers Drug Mart
+942,Yes,953,Rexall
+943,Yes,954,Walden Family Drugstore
+944,Yes,955,Shoppers Drug Mart
+945,Yes,956,Dawson Heights Pharmacy
+946,Yes,957,Oak Medical Pharmacy
+947,Yes,958,Findlay's Drugstore
+948,Yes,959,Smallman Pharmacy
+949,Yes,960,Wal-Mart Pharmacy
+950,Yes,961,Medical Pharmacy
+951,Yes,962,Shoppers Drug Mart
+952,Yes,963,Shoppers Drug Mart
+953,Yes,964,Rexall
+954,Yes,965,Shoppers Drug Mart
+955,Yes,966,Rexall
+956,Yes,967,Shoppers Drug Mart
+957,Yes,968,Shoppers Drug Mart
+958,Yes,969,Shoppers Drug Mart
+959,Yes,970,Shoppers Drug Mart
+960,Yes,971,Shoppers Drug Mart
+961,Yes,972,York Gate IDA Drugmart
+962,Yes,973,Food Basics Pharmacy
+963,Yes,974,Cassandra Pharmacy
+964,Yes,975,Rexall
+965,Yes,976,Wal-Mart Pharmacy
+966,Yes,977,Demarco Pharmacy
+967,Yes,978,Shoppers Drug Mart
+968,Yes,979,Rexall
+969,Yes,980,Wal-Mart Pharmacy
+970,Yes,981,Welcome Guardian Pharmacy
+971,Yes,982,Wal-Mart Pharmacy
+972,Yes,983,Wal-Mart Pharmacy
+973,Yes,984,No Frills
+974,Yes,985,Shih Pharmacy
+975,Yes,986,No Frills
+976,Yes,987,La Rose Pharmacy
+977,Yes,988,Wal-Mart Pharmacy
+978,Yes,989,Real Canadian Superstore
+979,Yes,990,No Frills
+980,Yes,991,Shoppers Drug Mart
+981,Yes,992,No Frills
+982,Yes,993,Uptown Pharmacy
+983,Yes,994,Dundas West Village Pharmacy
+984,Yes,995,Loblaw
+985,Yes,996,Healing Arts Pharmacy
+986,Yes,997,Morelli's Pharmacy
+987,Yes,998,Canada Chemists
+988,Yes,999,Health Corner Pharmacy
+989,Yes,1000,Shoppers Drug Mart
+990,Yes,1001,Shoppers Drug Mart
+991,Yes,1002,Wal-Mart Pharmacy
+992,Yes,1003,Westmount Place Pharmacy
+993,Yes,1004,Rexall
+994,Yes,1005,Wal-Mart Pharmacy
+995,Yes,1006,Rexall
+996,Yes,1007,Food Basics Pharmacy
+997,Yes,1008,Sobeys Pharmacy
+998,Yes,1009,Zehrs Markets
+999,Yes,1010,Williamsburg Pharmacy
+1000,Yes,1011,Fairway Lackner Pharmacy
+1001,Yes,1012,Med Health Pharmacy
+1002,Yes,1013,Sobeys Pharmacy
+1003,Yes,1014,Cook's Pharmacy
+1004,Yes,1015,Carriage Crossing Pharmacy
+1005,Yes,1016,Alphamed Pharmacy
+1006,Yes,1017,Shoppers Drug Mart
+1007,Yes,1018,Shoppers Drug Mart
+1008,Yes,1019,Costco Pharmacy
+1009,Yes,1020,Rexall
+1010,Yes,1021,Zehrs Markets
+1011,Yes,1022,Zehrs Markets
+1012,Yes,1023,Rexall
+1013,Yes,1024,No Frills
+1014,Yes,1025,Jeffers Pharmacy Limited
+1015,Yes,1026,Costco Pharmacy
+1016,Yes,1027,Costco Pharmacy
+1017,Yes,1028,Costco Pharmacy
+1018,Yes,1029,Costco Pharmacy
+1019,Yes,1030,Galleria Pharmacy
+1020,Yes,1031,Shoppers Drug Mart
+1021,Yes,1032,Shoppers Drug Mart
+1022,Yes,1033,Shoppers Drug Mart
+1023,Yes,1034,Freshco Pharmacy
+1024,Yes,1035,Shoppers Drug Mart
+1025,Yes,1036,Dales Pharmacy
+1026,Yes,1037,Shoppers Drug Mart
+1027,Yes,1038,Times Pharmacy
+1028,Yes,1039,Stouffville IDA Pharmacy
+1029,Yes,1040,Real Canadian Superstore
+1030,Yes,1041,Shoppers Drug Mart
+1031,Yes,1042,Shoppers Drug Mart
+1032,Yes,1043,Rexall
+1033,Yes,1044,Shoppers Drug Mart
+1034,Yes,1045,Freshco Pharmacy
+1035,Yes,1046,Rexall
+1036,Yes,1047,Wal-Mart Pharmacy
+1037,Yes,1048,Rexall
+1038,Yes,1049,Real Canadian Superstore
+1039,Yes,1050,Rexall
+1040,Yes,1051,No Frills
+1041,Yes,1052,King City Guardian Drugs
+1042,Yes,1053,Robins Pharmacy
+1043,Yes,1054,Markham Healthplex Pharmacy
+1044,Yes,1055,Morelli's Pharmacy
+1045,Yes,1056,Wal-Mart Pharmacy
+1046,Yes,1057,Atlas Pharmacy
+1047,Yes,1058,Sutton Apothecary
+1048,Yes,1059,Metro Pharmacy
+1049,Yes,1060,Uptown Apothecary
+1050,Yes,1061,St. Mary Pharmacy
+1051,Yes,1062,Trailside Pharmacy
+1052,Yes,1063,Your Independent Grocer
+1053,Yes,1064,Pollard IDA Pharmacy
+1054,Yes,1065,Shoppers Drug Mart
+1055,Yes,1066,Shoppers Drug Mart
+1056,Yes,1067,Kawartha Lakes Pharmacy
+1057,Yes,1068,Shoppers Drug Mart
+1058,Yes,1069,Shoppers Drug Mart
+1059,Yes,1070,Whitfield Guardian
+1060,Yes,1071,Shoppers Drug Mart
+1061,Yes,1072,Yurek Pharmacy Ltd.
+1062,Yes,1073,Shoppers Drug Mart
+1063,Yes,1074,Wilmot Creek Pharmacy
+1064,Yes,1075,Glen Park Pharmacy
+1065,Yes,1076,Pharma Trust Drug Mart
+1066,Yes,1077,5841 Malden Road - MLW
+1067,Yes,1078,Brighton Remedy's Rx
+1068,Yes,1079,Clinic Pharmacy
+1069,Yes,1080,Doon Mills Pharmacy
+1070,Yes,1081,DrugCare Pharmacy
+1071,Yes,1082,No Frills
+1072,Yes,1083,No Frills
+1073,Yes,1084,No Frills
+1074,Yes,1085,No Frills
+1075,Yes,1086,No Frills
+1076,Yes,1087,No Frills
+1077,Yes,1088,Zehrs Markets
+1078,Yes,1089,Hooper's Pharmacy
+1079,Yes,1090,Ilderton Medical Pharmacy
+1080,Yes,1091,Lovell Drugs
+1081,Yes,1092,Lovell Drugs
+1082,Yes,1093,Lucknow Pharmasave
+1083,Yes,1094,People's Pharmachoice
+1084,Yes,1095,Phamily Pharmacy
+1085,Yes,1096,Rexall
+1086,Yes,1097,Pharmagreen Pharmacy
+1087,Yes,1098,Potters Wheel Pharmacy
+1088,Yes,1099,Prescription Pharmacy
+1089,Yes,1100,Prima Care Pharmacy
+1090,Yes,1101,Queen Hansen Pharmacy
+1091,Yes,1102,Rexall
+1092,Yes,1103,Rexall
+1093,Yes,1104,Rexall
+1094,Yes,1105,Rexall
+1095,Yes,1106,Rexall
+1096,Yes,1108,Rymal Gage Pharmacy
+1097,Yes,1109,Schomberg Village Pharmacy
+1098,Yes,1110,Sherman IDA Pharmacy
+1099,Yes,1111,Springdale Pharmacy
+1100,Yes,1112,Venice Pharmacy
+1101,Yes,1113,Wal-Mart Pharmacy
+1102,Yes,1114,Wal-Mart Pharmacy
+1103,Yes,1115,Wal-Mart Pharmacy
+1104,Yes,1116,Wal-Mart Pharmacy
+1105,Yes,1117,Wal-Mart Pharmacy
+1106,Yes,1118,Wal-Mart Pharmacy
+1107,Yes,1119,Wal-Mart Pharmacy
+1108,Yes,1120,Wal-Mart Pharmacy
+1109,Yes,1121,Wal-Mart Pharmacy
+1110,Yes,1122,Wal-Mart Pharmacy
+1111,Yes,1123,Wal-Mart Pharmacy
+1112,Yes,1124,Wal-Mart Pharmacy
+1113,Yes,1125,Wal-Mart Pharmacy
+1114,Yes,1126,Wal-Mart Pharmacy
+1115,Yes,1127,Wal-Mart Pharmacy
+1116,Yes,1128,Wal-Mart Pharmacy
+1117,Yes,1129,Walmart Pharmacy
+1118,Yes,1130,Wal-Mart Pharmacy
+1119,Yes,1131,Wal-Mart Pharmacy
+1120,Yes,1132,Wal-Mart Pharmacy
+1121,Yes,1133,Wal-Mart Pharmacy
+1122,Yes,1134,Wal-Mart Pharmacy
+1123,Yes,1135,Wal-Mart Pharmacy
+1124,Yes,1136,Wal-Mart Pharmacy
+1125,Yes,1137,Wal-Mart Pharmacy
+1126,Yes,1138,Wellness Healthcare Pharmacy
+1127,Yes,1139,Loblaw
+1128,Yes,1140,Fortinos
+1129,Yes,1141,Loblaw
+1130,Yes,1142,Zehrs Markets
+1131,Yes,1143,Zehrs Markets
+1132,Yes,1144,Loblaw
+1133,Yes,1145,No Frills
+1134,Yes,1146,No Frills
+1135,Yes,1147,Loblaw
+1136,Yes,1148,Real Canadian Superstore
+1137,Yes,1149,Loblaw
+1138,Yes,1150,Loblaw
+1139,Yes,1151,Your Independent Grocer
+1140,Yes,1152,Real Canadian Superstore
+1141,Yes,1153,Real Canadian Superstore
+1142,Yes,1154,Shoppers Drug Mart
+1143,Yes,1155,Shoppers Drug Mart
+1144,Yes,1156,Shoppers Drug Mart
+1145,Yes,1157,Shoppers Drug Mart
+1146,Yes,1158,Shoppers Drug Mart
+1147,Yes,1159,Shoppers Drug Mart
+1148,Yes,1160,Shoppers Drug Mart
+1149,Yes,1161,Shoppers Drug Mart
+1150,Yes,1162,Shoppers Drug Mart
+1151,Yes,1163,Shoppers Drug Mart
+1152,Yes,1164,Shoppers Drug Mart
+1153,Yes,1165,Shoppers Drug Mart
+1154,Yes,1166,Shoppers Drug Mart
+1155,Yes,1167,Shoppers Drug Mart
+1156,Yes,1168,Shoppers Drug Mart
+1157,Yes,1169,Shoppers Drug Mart
+1158,Yes,1170,Shoppers Drug Mart
+1159,Yes,1171,Shoppers Drug Mart
+1160,Yes,1172,Shoppers Drug Mart
+1161,Yes,1173,Shoppers Drug Mart
+1162,Yes,1174,Shoppers Drug Mart
+1163,Yes,1175,Shoppers Drug Mart
+1164,Yes,1176,Shoppers Drug Mart
+1165,Yes,1177,Shoppers Drug Mart
+1166,Yes,1178,Shoppers Drug Mart
+1167,Yes,1179,Shoppers Drug Mart
+1168,Yes,1180,Shoppers Drug Mart
+1169,Yes,1181,Shoppers Drug Mart
+1170,Yes,1182,Shoppers Drug Mart
+1171,Yes,1183,Shoppers Drug Mart
+1172,Yes,1184,Shoppers Drug Mart
+1173,Yes,1185,Shoppers Drug Mart
+1174,Yes,1186,Shoppers Drug Mart
+1175,Yes,1187,Shoppers Drug Mart
+1176,Yes,1188,Shoppers Drug Mart
+1177,Yes,1189,Shoppers Drug Mart
+1178,Yes,1190,Shoppers Drug Mart
+1179,Yes,1191,Shoppers Drug Mart
+1180,Yes,1192,Shoppers Drug Mart
+1181,Yes,1193,Shoppers Drug Mart
+1182,Yes,1194,Shoppers Drug Mart
+1183,Yes,1195,Shoppers Drug Mart
+1184,Yes,1196,Shoppers Drug Mart
+1185,Yes,1197,Shoppers Drug Mart
+1186,Yes,1198,Shoppers Drug Mart
+1187,Yes,1199,Baden Village Pharmacy
+1188,Yes,1200,Bank Street Medical Pharmacy
+1189,Yes,1201,Beverly Med Pharmacy
+1190,Yes,1202,Cahoon's Pharmacy
+1191,Yes,1203,Real Canadian Superstore
+1192,Yes,1204,Your Independent Grocer
+1193,Yes,1205,Loblaw
+1194,Yes,1206,Elora Apothecary
+1195,Yes,1207,Food Basics Pharmacy
+1196,Yes,1208,Food Basics Pharmacy
+1197,Yes,1209,Food Basics Pharmacy
+1198,Yes,1210,Food Basics Pharmacy
+1199,Yes,1211,Food Basics Pharmacy
+1200,Yes,1212,FreshCo Pharmacy
+1201,Yes,1213,FreshCo Pharmacy #7265
+1202,Yes,1214,FreshCo Pharmacy
+1203,Yes,1215,Glebe Apothecary
+1204,Yes,1216,Health Centre Pharmacy
+1205,Yes,1217,Holland Street Pharmacy
+1206,Yes,1218,Lakeview Pharmacy
+1207,Yes,1219,Metro Pharmacy
+1208,Yes,1220,Metro Pharmacy
+1209,Yes,1221,Metro Pharmacy
+1210,Yes,1222,Metro Pharmacy
+1211,Yes,1223,Metro Pharmacy
+1212,Yes,1224,Metro Pharmacy
+1213,Yes,1225,Metro Pharmacy
+1214,Yes,1226,Metro Pharmacy
+1215,Yes,1227,Metro Pharmacy
+1216,Yes,1228,North Hastings Family Pharmacy
+1217,Yes,1229,Pellow Pharmasave
+1218,Yes,1230,People's Choice Drug Mart
+1219,Yes,1231,Rexall
+1220,Yes,1232,Rexall
+1221,Yes,1233,Rexall
+1222,Yes,1234,Rexall
+1223,Yes,1235,Rexall
+1224,Yes,1236,Rexall
+1225,Yes,1237,Rexall
+1226,Yes,1238,Rexall
+1227,Yes,1239,Rexall
+1228,Yes,1240,Rexall
+1229,Yes,1241,Rexall
+1230,Yes,1242,Rexall
+1231,Yes,1243,Rexall
+1232,Yes,1244,Rexall
+1233,Yes,1245,Rexall
+1234,Yes,1246,Rexall
+1235,Yes,1247,Rexall
+1236,Yes,1248,Rexall
+1237,Yes,1249,Rexall
+1238,Yes,1250,Rexall
+1239,Yes,1251,Rexall
+1240,Yes,1252,Rexall
+1241,Yes,1253,Rexall
+1242,Yes,1254,Rexall
+1243,Yes,1255,Rexall
+1244,Yes,1256,Rexall
+1245,Yes,1257,Rexall
+1246,Yes,1258,Rexall
+1247,Yes,1259,Rexall
+1248,Yes,1260,Rexall
+1249,Yes,1261,Rexall
+1250,Yes,1262,Rexall
+1251,Yes,1263,Rexall
+1252,Yes,1264,Rexall
+1253,Yes,1265,Rexall
+1254,Yes,1266,Rexall
+1255,Yes,1267,Rexall
+1256,Yes,1268,Rexall
+1257,Yes,1269,Rexall
+1258,Yes,1270,Rexall
+1259,Yes,1271,Rexall
+1260,Yes,1272,Rexall
+1261,Yes,1273,Rexall
+1262,Yes,1274,Rexall
+1263,Yes,1275,Rexall
+1264,Yes,1276,Rexall
+1265,Yes,1277,Rexall
+1266,Yes,1278,Rexall
+1267,Yes,1279,Rexall
+1268,Yes,1280,Rexall
+1269,Yes,1281,Rexall
+1270,Yes,1282,Rexall
+1271,Yes,1283,Rexall Dell Pharmacy
+1272,Yes,1284,Safeway Pharmacy
+1273,Yes,1285,Sandycove Drug Store
+1274,Yes,1286,Sobeys Pharmacy
+1275,Yes,1287,Sobeys Pharmacy
+1276,Yes,1288,Sobeys Pharmacy
+1277,Yes,1289,Sobeys Pharmacy
+1278,Yes,1290,Sobeys Pharmacy
+1279,Yes,1291,Sobeys Pharmacy
+1280,Yes,1292,Sobeys Pharmacy
+1281,Yes,1293,Sobeys Pharmacy
+1282,Yes,1294,Sobeys Pharmacy
+1283,Yes,1295,Sobeys Pharmacy
+1284,Yes,1296,Sobeys Pharmacy
+1285,Yes,1297,Sobeys Pharmacy
+1286,Yes,1298,Stirling Pharmacy
+1287,Yes,1299,Stouffville Pharmasave
+1288,Yes,1300,Wal-Mart Pharmacy
+1289,Yes,1301,Wal-Mart Pharmacy
+1290,Yes,1302,Wal-Mart Pharmacy
+1291,Yes,1303,Wal-Mart Pharmacy
+1292,Yes,1304,Wal-Mart Pharmacy
+1293,Yes,1305,Wal-Mart Pharmacy
+1294,Yes,1306,Wal-Mart Pharmacy
+1295,Yes,1307,Wal-Mart Pharmacy
+1296,Yes,1308,Wal-Mart Pharmacy
+1297,Yes,1309,Wal-Mart Pharmacy
+1298,Yes,1310,Wal-Mart Pharmacy
+1299,Yes,1311,Wal-Mart Pharmacy
+1300,Yes,1312,Wal-Mart Pharmacy
+1301,Yes,1313,Wal-Mart Pharmacy
+1302,Yes,1314,Westminster Square Remedy's Rx
+1303,Yes,1315,Westport Village Pharmacy
+1304,Yes,1316,Whitney Pharmacy
+1305,Yes,1317,No Frills
+1306,Yes,1318,Zehrs Markets
+1307,Yes,1319,Zehrs Markets
+1308,Yes,1320,Zehrs Markets
+1309,Yes,1321,Your Independent Grocer
+1310,Yes,1322,Real Canadian Superstore
+1311,Yes,1323,Loblaw
+1312,Yes,1324,Real Canadian Superstore
+1313,Yes,1325,Fortinos
+1314,Yes,1326,Loblaw
+1315,Yes,1327,Loblaw
+1316,Yes,1328,Real Canadian Superstore
+1317,Yes,1329,Zehrs Markets
+1318,Yes,1330,Loblaw
+1319,Yes,1331,Zehrs Markets
+1320,Yes,1332,Shoppers Drug Mart
+1321,Yes,1333,Shoppers Drug Mart
+1322,Yes,1334,Shoppers Drug Mart
+1323,Yes,1335,Shoppers Drug Mart
+1324,Yes,1336,Shoppers Drug Mart
+1325,Yes,1337,Shoppers Drug Mart
+1326,Yes,1338,Shoppers Drug Mart
+1327,Yes,1339,Shoppers Drug Mart
+1328,No,1340,Southwest Ottawa Covid-19 AC
+1329,Yes,1341,Falls Pharmacy
+1330,Yes,1342,Marchese Pharmacy
+1331,Yes,1343,Sutherland's Pharmacy Limited
+1332,Yes,1344,Robinson's IDA Pharmacy
+1333,Yes,1345,Perth Downtown Pharmasave
+1334,Yes,1346,Carleton Place IDA Drug Mart
+1335,Yes,1347,Stittsville Drug Mart
+1336,Yes,1348,Mckechnie Pharmacy
+1337,Yes,1349,Fortinos
+1338,Yes,1350,Hillcroft Pharmacy
+1339,Yes,1351,Real Canadian Superstore
+1340,Yes,1352,Real Canadian Superstore
+1341,Yes,1353,Paramount Pharmasave
+1342,Yes,1354,Hespeler Pharmacy
+1343,Yes,1355,Shoppers Drug Mart
+1344,Yes,1356,Hills Clinic Pharmacy
+1345,Yes,1357,Zehrs Markets
+1346,Yes,1358,Fortinos
+1347,Yes,1359,Professional Medical Pharmacy
+1348,Yes,1360,No Frills
+1349,Yes,1361,Shoppers Drug Mart
+1350,Yes,1362,Zehrs Markets
+1351,Yes,1363,Zehrs Markets
+1352,Yes,1364,Zehrs Markets
+1353,Yes,1365,No Frills
+1354,Yes,1366,Zehrs Markets
+1355,Yes,1367,Fortinos
+1356,Yes,1368,Metro Pharmacy
+1357,Yes,1369,Real Canadian Superstore
+1358,Yes,1370,Real Canadian Superstore
+1359,Yes,1371,Rutherford Guardian Drugs
+1360,Yes,1372,Your Independent Grocer
+1361,Yes,1373,Zehrs Markets
+1362,Yes,1374,Your Independent Grocer
+1363,Yes,1375,Food Basics Pharmacy
+1364,Yes,1376,No Frills
+1365,Yes,1377,Real Canadian Superstore
+1366,Yes,1378,Real Canadian Superstore
+1367,Yes,1379,Real Canadian Superstore
+1368,Yes,1380,No Frills
+1369,Yes,1381,No Frills
+1370,Yes,1382,Fortinos
+1371,Yes,1383,Royal City Pharmacy
+1372,Yes,1384,Shoppers Drug Mart
+1373,Yes,1385,Your Independent Grocer
+1374,Yes,1386,Your Independent Grocer
+1375,Yes,1387,Metro Pharmacy
+1376,Yes,1388,Fortinos
+1377,Yes,1389,Fortinos
+1378,Yes,1390,No Frills
+1379,Yes,1391,Cedarview Guardian Pharmacy
+1380,Yes,1392,Sobeys Pharmacy
+1381,Yes,1393,Father Tobin Pharmacy
+1382,Yes,1394,Rexall Guardian Markhamack Pharmacy
+1383,Yes,1395,Shoppers Drug Mart
+1384,Yes,1396,Brameast Pharmacy
+1385,Yes,1397,Pharmasave
+1386,Yes,1398,Fortinos
+1387,Yes,1399,Pharmasave Elgin Mall
+1388,Yes,1400,Durham Drug Store
+1389,Yes,1401,Shoppers Drug Mart
+1390,Yes,1402,Greenbank Hunt Club Pharmacy
+1391,Yes,1403,Bank Street Pharmacy
+1392,Yes,1404,Bishop Pharmacy Pharmachoice
+1393,Yes,1405,Bayview IDA Pharmacy
+1394,Yes,1406,Palermo Pharmacy
+1395,Yes,1407,Georgetown Pharmacy
+1396,Yes,1408,Tillsonburg Care Pharmacy
+1397,Yes,1409,Sobeys Pharmacy
+1398,Yes,1410,Gateway Medical Plex Pharmacy
+1399,Yes,1411,Delaware Pharmacy
+1400,Yes,1412,Pharmacie Medici Pharmacy
+1401,Yes,1413,Weston Downs Pharmacy
+1402,Yes,1414,DrugSmart Pharmacy
+1403,Yes,1415,Surecare Pharmacy
+1404,Yes,1416,Country Hills Pharmacy
+1405,Yes,1417,Dundas Neyagawa Pharmacy
+1406,Yes,1418,Parkedale Pharmacy
+1407,Yes,1419,Medbrands IDA Pharmacy
+1408,Yes,1420,Swan Lake Pharmacy
+1409,Yes,1421,Promed Pharmacy
+1410,Yes,1422,Whole Health Pharmacy Glebe
+1411,Yes,1423,Southfields Pharmasave Pharmacy
+1412,Yes,1424,Pharmacare Medical Group
+1413,Yes,1425,Hybrid Pharm
+1414,Yes,1426,New Care Pharmacy
+1415,Yes,1427,Green Bay Pharmacy & Medical Centre
+1416,Yes,1428,Lionhead Pharmacy
+1417,Yes,1429,Rockway Pharmacy
+1418,Yes,1430,Kanata Compounding Pharmacy
+1419,Yes,1431,Intrepid Pharmacy
+1420,Yes,1432,Millcroft Pharmacy
+1421,Yes,1433,Stone Road Pharmacy
+1422,Yes,1434,Trail Capital Pharmacy
+1423,Yes,1435,Prohealth Pharmacy
+1424,Yes,1436,Smiths Falls Family Pharmacy
+1425,Yes,1437,Perth Mews Pharmacy
+1426,Yes,1438,Hazeldean Pharmacy
+1427,Yes,1439,Drayton Pharmacy
+1428,Yes,1440,Mountainside Pharmacy
+1429,Yes,1441,Newmarket Pharmacy
+1430,Yes,1442,Shoppers Drug Mart
+1431,Yes,1443,Axis Health Care Plus Pharmacy
+1432,Yes,1444,University Square Pharmacy
+1433,Yes,1445,Gordon Pharmasave
+1434,Yes,1446,Shoppers Drug Mart
+1435,Yes,1447,Durham Pharmacy
+1436,Yes,1448,Shoppers Drug Mart
+1437,Yes,1449,Belgage Pharmacy
+1438,Yes,1450,Shoppers Drug Mart
+1439,Yes,1451,Merrickville Drug Mart
+1440,Yes,1452,Shoppers Drug Mart
+1441,Yes,1453,King Medical Arts Pharmacy
+1442,Yes,1454,Pharmasave Medicine Chest Pharmacy
+1443,Yes,1455,Shoppers Drug Mart
+1444,Yes,1456,James Brown Pharmacy
+1445,Yes,1457,Shoppers Drug Mart
+1446,Yes,1458,Shoppers Drug Mart
+1447,Yes,1459,Shoppers Drug Mart
+1448,Yes,1460,Caravaggio IDA Drugs
+1449,Yes,1461,Mcintyre Pharmacy
+1450,Yes,1462,Coward Pharmacy
+1451,Yes,1463,Shoppers Simply Pharmacy
+1452,Yes,1464,Pharma Plus
+1453,Yes,1465,Rexall
+1454,Yes,1466,Pharmasave
+1455,Yes,1467,Shoppers Drug Mart
+1456,Yes,1468,Pharma Well Drugmart
+1457,Yes,1469,Shas Pharmacy
+1458,Yes,1470,Family Health Pharmacy Pelham
+1459,Yes,1471,Kortright Pharmacy
+1460,Yes,1472,Brussels Pharmacy
+1461,Yes,1473,Shoppers Drug Mart
+1462,Yes,1474,Erin Mills IDA Pharmacy
+1463,Yes,1475,HealthMax Pharmacy
+1464,Yes,1476,Ajax Pharmachoice
+1465,Yes,1477,Shoppers Drug Mart
+1466,Yes,1478,Shoppers Drug Mart
+1467,Yes,1479,Shoppers Drug Mart
+1468,Yes,1480,Shoppers Drug Mart
+1469,Yes,1481,Village Gate Pharmasave
+1470,Yes,1482,Holly Pharmacy
+1471,Yes,1483,Bossons Pharmacy
+1472,Yes,1484,Rexall Pharma Plus
+1473,Yes,1485,Shoppers Drug Mart
+1474,Yes,1486,Dales Pharmacy
+1475,Yes,1487,Shoppers Drug Mart
+1476,Yes,1488,Health Centre Pharmacy
+1477,Yes,1489,Shoppers Drug Mart
+1478,Yes,1490,Shoppers Drug Mart
+1479,Yes,1491,Fenelon Falls Pharmacy
+1480,Yes,1492,Shoppers Drug Mart
+1481,Yes,1493,Shoppers Drug Mart
+1482,Yes,1494,Courtice Pharmasave
+1483,Yes,1495,Shoppers Drug Mart
+1484,Yes,1496,Shoppers Drug Mart
+1485,Yes,1497,Shoppers Drug Mart
+1486,Yes,1498,Shoppers Drug Mart
+1487,Yes,1499,Shoppers Drug Mart
+1488,Yes,1500,Dukh Bhanjan Pharmacy
+1489,Yes,1501,Shoppers Drug Mart
+1490,Yes,1502,Elgin Drugs
+1491,Yes,1503,R.X Drug Mart
+1492,Yes,1504,Shoppers Drug Mart
+1493,Yes,1505,Shoppers Drug Mart
+1494,Yes,1506,Shoppers Drug Mart
+1495,Yes,1507,Shoppers Drug Mart
+1496,Yes,1508,Pharma Plus
+1497,Yes,1509,Shoppers Drug Mart
+1498,Yes,1510,Shoppers Drug Mart
+1499,Yes,1511,Shoppers Drug Mart
+1500,Yes,1512,Shoppers Drug Mart
+1501,Yes,1513,Shoppers Drug Mart
+1502,Yes,1514,Shoppers Drug Mart
+1503,Yes,1515,Shoppers Drug Mart
+1504,Yes,1516,Shoppers Drug Mart
+1505,Yes,1517,Shoppers Drug Mart
+1506,Yes,1518,Shoppers Drug Mart
+1507,Yes,1519,Shoppers Drug Mart
+1508,Yes,1520,Shoppers Drug Mart
+1509,Yes,1521,Shoppers Drug Mart
+1510,Yes,1522,Shoppers Drug Mart
+1511,Yes,1523,Shoppers Drug Mart
+1512,Yes,1524,Shoppers Drug Mart
+1513,Yes,1525,Shoppers Drug Mart
+1514,Yes,1526,Shoppers Drug Mart
+1515,Yes,1527,Shoppers Drug Mart
+1516,Yes,1528,Shoppers Drug Mart
+1517,Yes,1529,Exeter Guardian Pharmacy
+1518,Yes,1530,Richmond IDA Pharmacy
+1519,Yes,1531,Bowen's Pharmacy
+1520,Yes,1532,Dini IDA Pharmacy
+1521,Yes,1533,West End Pharmacy
+1522,Yes,1534,Shelburne Town Pharmacy
+1523,Yes,1535,Boggio Fonthill Pharmacy IDA
+1524,Yes,1536,Shoppers Drug Mart
+1525,Yes,1537,Shoppers Drug Mart
+1526,Yes,1538,Shoppers Drug Mart
+1527,Yes,1539,Gordon Pharmasave Pharmacy
+1528,Yes,1540,Peace Medical Pharmacy
+1529,Yes,1541,Langs Medical Pharmacy
+1530,Yes,1542,Shoppers Drug Mart
+1531,Yes,1543,Shoppers Drug Mart
+1532,Yes,1544,Shoppers Drug Mart
+1533,Yes,1545,Coulter's Guardian Pharmacy
+1534,Yes,1546,Jackson's Guardian Pharmacy
+1535,Yes,1547,Walther's IDA Pharmacy
+1536,Yes,1548,Rastin's Wilson St. Pharmacy
+1537,Yes,1549,Loblaw
+1538,Yes,1550,Shoppers Drug Mart
+1539,Yes,1551,Shoppers Drug Mart
+1540,Yes,1552,Pharmalink IDA Phamracy
+1541,Yes,1553,Pharmasave Michael's Pharmacy
+1542,Yes,1554,Richmond Village Pharmacy
+1543,Yes,1555,Evans Medical Pharmacy
+1544,Yes,1557,Breslau Pharmacy & Wellness Centre
+1545,Yes,1558,Wynplus Pharmacy
+1546,Yes,1559,Pharmasave
+1547,Yes,1560,Shoppers Drug Mart
+1548,Yes,1561,White Oaks Pharmacy
+1549,Yes,1562,Shoppers Drug Mart
+1550,Yes,1563,Tuscany Guardian Pharmacy
+1551,Yes,1564,Shoppers Drug Mart
+1552,Yes,1565,Shoppers Drug Mart
+1553,Yes,1566,Shoppers Drug Mart
+1554,Yes,1567,Shoppers Drug Mart
+1555,Yes,1568,Shoppers Drug Mart
+1556,Yes,1569,West Carlton Drug Mart
+1557,Yes,1570,Tillsonburg Remedy's Rx
+1558,Yes,1571,Shoppers Drug Mart
+1559,Yes,1572,Shoppers Drug Mart
+1560,Yes,1573,Shoppers Drug Mart
+1561,Yes,1574,Shoppers Drug Mart
+1562,Yes,1575,Shoppers Drug Mart
+1563,Yes,1576,Shoppers Drug Mart
+1564,Yes,1577,Excellent Care Pharmacy
+1565,Yes,1578,Axis Health Care Plus Pharmacy
+1566,Yes,1579,Nickle's Pharmacy
+1567,Yes,1580,Walsh's IDA Pharmacy
+1568,Yes,1581,Sunderland Pharmacy
+1569,Yes,1582,Dundalk Village Pharmacy
+1570,Yes,1583,Preston Medical Pharmacy
+1571,Yes,1584,Charlolais Pharmacy
+1572,Yes,1585,Metro Pharmacy
+1573,Yes,1586,First Place Pharmacy
+1574,Yes,1587,Zehrs Markets
+1575,Yes,1588,Pharmasave Aurora
+1576,Yes,1589,Zehrs Markets
+1577,Yes,1590,Zehrs Markets
+1578,Yes,1591,Fortinos
+1579,Yes,1592,Metro Pharmacy
+1580,Yes,1593,Costco Pharmacy
+1581,Yes,1594,Costco Pharmacy
+1582,Yes,1595,Loblaw
+1583,Yes,1596,Costco Pharmacy
+1584,Yes,1597,Super Rx Pharmacy
+1585,Yes,1598,Costco Pharmacy
+1586,Yes,1599,Your Independent Grocer
+1587,Yes,1600,Shoppers Drug Mart
+1588,Yes,1601,Wellington Pharmacy
+1589,Yes,1602,Summeridge Guardian Pharmacy
+1590,Yes,1603,Metro Pharmacy
+1591,Yes,1604,No Frills
+1592,Yes,1605,Shoppers Drug Mart
+1593,Yes,1606,Wal-Mart Pharmacy
+1594,Yes,1607,Komoka Pharmacy
+1595,Yes,1608,Simcoe North Pharmacy
+1596,Yes,1609,Wal-Mart Pharmacy
+1597,Yes,1610,Richmond Hill Medical Pharmacy
+1598,Yes,1611,Medtrust Pharmacy Pharmasave
+1599,Yes,1612,Family Drug Mart
+1600,Yes,1613,Cumberland Pharmacy
+1601,Yes,1614,Fortinos
+1602,Yes,1615,Fallowfield Pharmacy
+1603,Yes,1616,Wal-Mart Pharmacy
+1604,Yes,1617,Pharma Xpress
+1605,Yes,1618,Proactive Pharmacy
+1606,Yes,1619,Loblaw Pharmacy
+1607,Yes,1620,Mooney's Bay Pharmacy
+1608,Yes,1621,Enhanced Care Pharmacy Thornhill
+1609,Yes,1622,Costco Pharmacy
+1610,Yes,1623,Pharmasave
+1611,Yes,1624,Mount Joy Pharmacy
+1612,Yes,1625,Fortinos
+1613,Yes,1626,Kemptville Drugmart
+1614,Yes,1627,Oshawa Discount Pharmacy
+1615,Yes,1628,North Gower Pharmacy
+1616,Yes,1629,Southkeys Pharmacy
+1617,Yes,1630,Mountainview Guardian Pharmacy
+1618,Yes,1631,Medpoint Care Pharmacy
+1619,Yes,1632,Safa Pharmacy
+1620,Yes,1633,Wellness Shield Pharmacy
+1621,Yes,1634,Costco Pharmacy
+1622,Yes,1635,Pakenham Pharmacy
+1623,Yes,1636,Costco Pharmacy
+1624,Yes,1637,Costco Pharamcy
+1625,Yes,1638,DrugSmart Pharmacy
+1626,Yes,1639,Origins Pharmacy Milton
+1627,Yes,1640,Golden Lake Pharmasave
+1628,Yes,1641,Oshawa Lakeview Pharmacy
+1629,Yes,1642,Great North Pharmacy
+1630,Yes,1643,Rossmore Pharmacy
+1631,Yes,1644,Plains Road West Pharmacy
+1632,Yes,1645,Pharmasave Cityview Pharmacy
+1633,Yes,1646,Phaily Guardian Pharmacy
+1634,Yes,1647,Wellness Clinical Pharmacy
+1635,Yes,1648,Bridle Path Pharmacy
+1636,Yes,1649,First Ave Pharmacy
+1637,Yes,1650,Clear View Pharmacy
+1638,Yes,1651,Tottenham Pharmacy
+1639,Yes,1652,Shoppers Drug Mart
+1640,Yes,1653,Blossom Park Pharmacy
+1641,Yes,1654,Total Health Pharmacy
+1642,Yes,1655,Stonechurch Pharmacy
+1643,Yes,1656,Simcoe Square Pharmacy
+1644,Yes,1657,Mulock Medical Pharmacy
+1645,Yes,1658,Medical Pharmacy
+1646,Yes,1659,Shoppers Drug Mart
+1647,Yes,1660,Westboro Pharmasave
+1648,Yes,1661,Rexall
+1649,Yes,1662,Rexall
+1650,Yes,1663,Shoppers Drug Mart
+1651,Yes,1664,Bellwood Pharmacy
+1652,Yes,1665,West Elgin Pharmacy
+1653,Yes,1666,Alpha Woodbridge Pharmacy
+1654,Yes,1667,Nobleton Guardian Pharmacy
+1655,Yes,1668,Coby Pharmacy
+1656,Yes,1669,Cook's Pharmacy
+1657,Yes,1670,Dixon Medical Pharmacy
+1658,Yes,1671,Richmond Pharmacy
+1659,Yes,1672,Aurora IDA Pharmacy
+1660,Yes,1673,Unionville Guardian Pharmacy
+1661,Yes,1674,Eustace Pharmasave
+1662,Yes,1675,Shoppers Drug Mart
+1663,Yes,1676,Shoppers Drug Mart
+1664,Yes,1677,The Prescription Shoppe
+1665,Yes,1678,Care Drugs
+1666,Yes,1679,Kirkland Pharmacy
+1667,Yes,1680,Miltowne Pharmacy
+1668,Yes,1681,Belmont Pharmacy
+1669,Yes,1682,Shoppers Simply Pharmacy
+1670,Yes,1683,Shoppers Drug Mart
+1671,Yes,1684,Shoppers Drug Mart
+1672,Yes,1685,Rx Drug Mart
+1673,Yes,1686,Erindale Medical Pharmacy
+1674,Yes,1687,Shoppers Drug Mart
+1675,Yes,1688,Shoppers Drug Mart
+1676,Yes,1689,Shoppers Drug Mart
+1677,Yes,1690,Shoppers Drug Mart
+1678,Yes,1691,Walsh's IDA Pharmacy Mount Forest
+1679,Yes,1692,Focus Drug Mart
+1680,Yes,1693,Wal-Mart Pharmacy
+1681,Yes,1694,Wal-Mart Pharmacy
+1682,Yes,1695,Neighbourhood Pharmacy
+1683,Yes,1696,Costco Pharmacy
+1684,Yes,1697,Wal-Mart Pharmacy
+1685,Yes,1698,Real Canadian Superstore
+1686,Yes,1699,Shoppers Drug Mart
+1687,Yes,1700,Grand Park Pharmacy
+1688,Yes,1701,Wal-Mart Pharmacy
+1689,Yes,1702,Unicare Pharmacy Of Mississauga
+1690,Yes,1703,Sobeys Pharmacy
+1691,Yes,1704,NKS Health
+1692,Yes,1705,Total Health Pharmacy
+1693,Yes,1706,Pharmasave Bovaird Spingdale
+1694,Yes,1707,Kensington Pharmacy
+1695,Yes,1708,James Potter Road Pharmacy
+1696,Yes,1709,Lacoste Pharmacy Pharmasave
+1697,Yes,1710,Copper Ridge IDA Pharmacy
+1698,Yes,1711,Bolton Pharmacy & Health Centre
+1699,Yes,1712,Drumbo Pharmacy
+1700,Yes,1713,Creditview IDA Pharmacy
+1701,Yes,1714,Brampton Community Pharmacy
+1702,Yes,1715,Pulse Pharmacy
+1703,Yes,1716,Brant Arts Dispensary
+1704,Yes,1717,Meadowvale Pharmacy
+1705,Yes,1718,J. C. Pharmacy
+1706,Yes,1719,Rexall
+1707,Yes,1720,Bramqueen Pharmacy
+1708,Yes,1721,MacLaren Pharmacy
+1709,Yes,1722,Shoppers Drug Mart
+1710,Yes,1723,Carling IDA Pharmacy
+1711,Yes,1724,Shoppers Drug Mart
+1712,Yes,1725,Tay Guardian Pharmacy
+1713,Yes,1726,Brechin Pharmacy
+1714,Yes,1727,Shoppers Drug Mart
+1715,Yes,1728,Dubreuilville Medical Centre - Lady Dunn Health Centre
+1716,Yes,1729,Lady Dunn Health Centre - White River Location
+1717,Yes,1730,Mary Berglund Community Health Centre (Ignace)
+1718,No,1731,Manitoulin Health Centre - Mindemoya
+1719,Yes,1732,Shoppers Drug Mart
+1720,Yes,1733,Shoppers Drug Mart
+1721,Yes,1744,Loblaw Pharmacy
+1722,Yes,1745,Shoppers Drug Mart
+1723,Yes,1746,Shoppers Drug Mart
+1724,Yes,1747,Keele-Ingram Pharmacy
+1725,Yes,1748,Shih Pharmacy
+1726,Yes,1749,Wal-Mart Pharmacy
+1727,Yes,1750,Rexall
+1728,Yes,1751,Shoppers Drug Mart
+1729,Yes,1752,Shoppers Drug Mart
+1730,Yes,1753,Shoppers Drug Mart
+1731,Yes,1754,Rexall
+1732,Yes,1755,Credit Ridge Remedy's Rx
+1733,Yes,1756,Drug Store Pharmacy
+1734,Yes,1757,Gore Pharmacy IDA
+1735,Yes,1758,Mount Dennis Temporary Testing Site
+1736,Yes,1759,Keelesdale Eglinton Community Testing Site
+1737,Yes,1760,Lawrence Heights Temporary Testing Site
+1738,No,1761,LAMP Community Pop-Ups
+1739,Yes,1762,Fortinos
+1740,Yes,1763,Haliburton Highland Pharmacy
+1741,Yes,1764,Bob Fallis Sports Centre
+1742,Yes,1765,Victor Pharmacy
+1743,Yes,1766,Mcgregor IDA Drugs
+1744,Yes,1767,Wal-Mart Pharmacy
+1745,Yes,1768,Wal-Mart Pharmacy
+1746,Yes,1769,Old Park Pharmacy
+1747,Yes,1770,Food Basics Pharmacy
+1748,Yes,1771,9-Eleven Drug Mart
+1749,Yes,1772,Grand Valley Drug Store
+1750,Yes,1773,Muskoka Medical Centre Pharmacy
+1751,Yes,1774,Loblaw Pharmacy
+1752,Yes,1775,Loblaw Pharmacy
+1753,Yes,1776,Fortinos
+1754,Yes,1777,Wal-Mart Pharmacy
+1755,Yes,1778,Wal-Mart Pharmacy
+1756,Yes,1779,Drugstore Pharmacy
+1757,Yes,1780,Wal-Mart Pharmacy
+1758,Yes,1781,Metro Pharmacy
+1759,Yes,1782,Food Basics Pharmacy
+1760,Yes,1783,Food Basics Pharmacy
+1761,Yes,1784,Drug Store Pharmacy
+1762,Yes,1785,Loblaw Pharmacy
+1763,Yes,1786,Metro Pharmacy
+1764,Yes,1787,Food Basics Pharmacy
+1765,Yes,1788,Metro Pharmacy
+1766,Yes,1789,Shoppers Drug Mart
+1767,Yes,1790,NoFrills Pharmacy
+1768,Yes,1791,Metro Pharmacy
+1769,Yes,1792,Real Canadian Superstore
+1770,Yes,1793,The Drugstore Pharmacy
+1771,Yes,1794,Foodland Pharmacy
+1772,Yes,1795,Cooks Pharmacy
+1773,Yes,1796,Medicine Shoppe
+1774,Yes,1797,Wal-Mart Pharmacy
+1775,Yes,1798,Loblaw Pharmacy
+1776,Yes,1799,St Gabriel Medical Pharmacy
+1777,Yes,1800,St Mary Health Centre Pharmacy
+1778,Yes,1801,Wal-Mart Pharmacy
+1779,Yes,1802,Wal-Mart Pharmacy
+1780,Yes,1803,Wal-Mart Pharmacy
+1781,Yes,1804,Islington IDA Pharmacy
+1782,Yes,1805,Shoppers Drug Mart
+1783,Yes,1806,Memorial Pharmasave
+1784,Yes,1807,Fittons Pharmacy
+1785,Yes,1808,The Boardwalk Pharmacy
+1786,Yes,1809,Medicine Cabinet
+1787,Yes,1810,Wal-Mart Pharmacy
+1788,Yes,1811,Roya Boutique Pharmacy
+1789,Yes,1812,Pharmasave Wincare Pharmacy & Comp
+1790,Yes,1813,B. Well Pharmacy
+1791,Yes,1814,Brant Lakeshore Pharmacy
+1792,Yes,1815,Food Basics Pharmacy
+1793,Yes,1816,Orangeville Pharmacy
+1794,Yes,1817,Weston Care Pharmacy
+1795,Yes,1818,Neighbour Care Pharmacy
+1796,Yes,1819,Guildcrest Pharmacy
+1797,Yes,1820,Queen East Medical Pharmacy
+1798,Yes,1821,Pharmazone Pharmacy
+1799,Yes,1822,Huron Crossing Pharmasave
+1800,Yes,1823,Medcare Drug Mart Niagara
+1801,Yes,1824,Dwight Market Pharmacy
+1802,Yes,1825,Martin Grove Pharmacy
+1803,Yes,1826,Huron Heights Pharmacy
+1804,Yes,1827,Deer Park Pharmacy
+1805,Yes,1828,Rexall
+1806,Yes,1829,Seoul Pharmacy
+1807,Yes,1830,Medical Care Pharmacy
+1808,Yes,1831,Mount Hope Pharmasave
+1809,Yes,1832,Pelham Hills Pharmacy
+1810,Yes,1833,Drugsmart Pharmacy
+1811,Yes,1834,Pharmasave Devon Pharmacy
+1812,Yes,1835,Shoppers Drug Mart
+1813,Yes,1836,Queen Street Pharmacy
+1814,Yes,1837,Shoppers Drug Mart
+1815,Yes,1838,Shoppers Drug Mart
+1816,Yes,1839,Health-Guard Pharmacy
+1817,Yes,1840,The Chase Pharmacy
+1818,Yes,1841,Hooper's Pharmacy
+1819,Yes,1842,Shoppers Drug Mart
+1820,Yes,1843,Garrison Road Remedy's Rx
+1821,Yes,1844,Wal-Mart Pharmacy
+1822,Yes,1845,West Lincoln Pharmacy
+1823,Yes,1846,Shoppers Drug Mart
+1824,Yes,1847,LSV Pharmacy
+1825,Yes,1848,Health Care Mart
+1826,Yes,1849,Rexall
+1827,Yes,1850,Rexall
+1828,Yes,1851,Rexall Pharma Plus
+1829,Yes,1852,Rexall
+1830,Yes,1853,Stafford IDA Pharmacy
+1831,Yes,1854,Rexall
+1832,Yes,1855,New Edinburg Pharmacy
+1833,Yes,1856,MMMC Pharmacy
+1834,Yes,1857,Cook's Pharmacy
+1835,Yes,1858,Manhattan Guardian Pharmacy
+1836,Yes,1859,Madawaska Pharmasave
+1837,Yes,1860,Heritage Park Pharmacy
+1838,Yes,1861,Shoppers Drug Mart
+1839,Yes,1862,Mina Drug Store
+1840,Yes,1863,Shoppers Drug Mart
+1841,Yes,1864,Mount Pleasant Pharmacy
+1842,Yes,1865,Shoppers Drug Mart
+1843,Yes,1866,Rexall
+1844,Yes,1867,Rexall
+1845,Yes,1868,Shoppers Simply Pharmacy
+1846,Yes,1869,Pharmasave Simcoe
+1847,Yes,1870,Rexall
+1848,Yes,1871,West Hill Pharmasave
+1849,Yes,1872,Shoppers Drug Mart
+1850,Yes,1873,Shoppers Drug Mart
+1851,Yes,1874,Shoppers Drug Mart
+1852,Yes,1875,Shoppers Simply Pharmacy
+1853,Yes,1876,Shoppers Drug Mart
+1854,Yes,1877,Rexall
+1855,Yes,1878,Don Mills Pharmacy
+1856,Yes,1879,Shoppers Drug Mart
+1857,Yes,1880,Shoppers Drug Mart
+1858,Yes,1881,Shoppers Drug Mart
+1859,Yes,1882,Shoppers Simply Pharmacy
+1860,Yes,1883,Shoppers Drug Mart
+1861,Yes,1884,Shoppers Drug Mart
+1862,Yes,1885,Shoppers Simply Pharmacy
+1863,Yes,1886,Shoppers Drug Mart
+1864,Yes,1887,Shoppers Drug Mart
+1865,Yes,1888,Shoppers Drug Mart
+1866,Yes,1889,Ultracare Compounding Pharmacy
+1867,Yes,1890,Seamless Care Pharmacy
+1868,Yes,1891,Bowmanville Clinic Pharmacy
+1869,Yes,1892,Wal-Mart Pharmacy
+1870,Yes,1893,BH Pharmacy
+1871,Yes,1894,Rexall
+1872,Yes,1895,Shoppers Drug Mart
+1873,Yes,1896,Shoppers Drug Mart
+1874,Yes,1897,Danny's Wellness Pharmacy
+1875,Yes,1898,Bloor West Pharmacy
+1876,Yes,1899,College Medical Pharmacy
+1877,Yes,1900,Mclaren Pharmacy
+1878,Yes,1901,Carpenter Guardian Pharmacy
+1879,Yes,1902,Mcintyre IDA Pharmacy
+1880,Yes,1903,Wal-Mart Pharmacy
+1881,Yes,1904,Wal-Mart Pharmacy
+1882,Yes,1905,Macarthur Drugs
+1883,Yes,1906,Shoppers Drug Mart
+1884,Yes,1907,Janzen's Pharmacy
+1885,Yes,1908,Warkworth Pharmacy
+1886,Yes,1909,Roulston's Pharmacy
+1887,Yes,1910,Pharmacie Plantagenet
+1888,Yes,1911,Medical Centre Pharmacy
+1889,Yes,1912,The Dispensary
+1890,Yes,1913,Metro Pharmacy
+1891,Yes,1914,Cenpro Pharmacy
+1892,Yes,1915,Food Basics Pharmacy
+1893,Yes,1916,Food Basics Pharmacy
+1894,Yes,1917,Pharmasave
+1895,Yes,1918,Metro Pharmacy
+1896,Yes,1919,First Place Pharmacy
+1897,Yes,1920,Food Basics Pharmacy
+1898,Yes,1921,NoFrills Pharmacy
+1899,Yes,1922,Rockwood Pharmacy
+1900,Yes,1923,Bryan's Pharmacy
+1901,Yes,1924,Hogan Pharmacy
+1902,Yes,1925,Loblaw Pharmacy
+1903,Yes,1926,Pharmasave Gananoque
+1904,Yes,1927,Wal-Mart Pharmacy
+1905,Yes,1928,Loblaw Pharmacy
+1906,Yes,1929,Loblaw Pharmacy
+1907,Yes,1930,Wal-Mart Pharmacy
+1908,Yes,1931,Inter Pharmacy
+1909,Yes,1932,The Drug Store Pharmacy
+1910,Yes,1933,Real Canadian Superstore
+1911,Yes,1934,Western On Campus Pharmacy
+1912,Yes,1935,Loblaw Pharmacy
+1913,Yes,1936,Loblaw Pharmacy
+1914,Yes,1937,Metro Pharmacy
+1915,Yes,1938,Loblaw Pharmacy
+1916,Yes,1939,Pickering Medical Pharmacy
+1917,Yes,1940,Wellness Pharmacy
+1918,Yes,1941,Loblaw Pharmacy
+1919,Yes,1942,Wal-Mart Pharmacy
+1920,Yes,1943,The Drug Store Pharmacy
+1921,Yes,1944,Real Canadian Superstore
+1922,Yes,1945,Loblaw Pharmacy
+1923,Yes,1946,Westmount Pharmacy
+1924,Yes,1947,Loblaw Pharmacy
+1925,Yes,1948,The Drugstore Pharmacy
+1926,Yes,1949,Loblaw Pharmacy
+1927,Yes,1950,Loblaw Pharmacy
+1928,Yes,1951,Wal-Mart Pharmacy
+1929,Yes,1952,The Drugstore Pharmacy
+1930,Yes,1953,Loblaw Pharmacy
+1931,Yes,1954,Loblaw Pharmacy
+1932,Yes,1955,Food Basics Pharmacy
+1933,Yes,1956,Loblaw Pharmacy
+1934,Yes,1957,Food Basics Pharmacy
+1935,Yes,1958,Metro Pharmacy
+1936,Yes,1959,Real Canadian Superstore
+1937,Yes,1960,The Medicine Shoppe @ Pharmacy
+1938,Yes,1961,Drugstore Pharmacy
+1939,Yes,1962,Loblaw Pharmacy
+1940,Yes,1963,Loblaw Pharmacy
+1941,Yes,1964,Metro Pharmacy
+1942,Yes,1965,Metro Pharmacy
+1943,Yes,1966,Drugstore Pharmacy
+1944,Yes,1967,Wal-Mart Pharmacy
+1945,Yes,1968,Loblaw Pharmacy
+1946,Yes,1969,Metro Pharmacy
+1947,Yes,1970,Loblaw Pharmacy
+1948,Yes,1971,Metro Pharmacy
+1949,Yes,1972,Drugstore Pharmacy
+1950,Yes,1973,Drugstore Pharmacy
+1951,Yes,1974,Shoppers Drug Mart
+1952,Yes,1975,Wal-Mart Pharmacy
+1953,Yes,1976,Wal-Mart Pharmacy
+1954,Yes,1977,Real Canadian Superstore
+1955,Yes,1978,Costco Pharmacy
+1956,Yes,1979,Freshco Pharmacy
+1957,Yes,1980,Drugstore Pharmacy
+1958,Yes,1981,Metro Pharmacy
+1959,Yes,1982,Wal-Mart Pharmacy
+1960,Yes,1983,Wal-Mart Pharmacy
+1961,Yes,1984,Drugstore Pharmacy
+1962,Yes,1985,Metro Pharmacy
+1963,Yes,1986,Loblaw Pharmacy
+1964,Yes,1987,Drug Store Pharmacy
+1965,Yes,1988,Food Basics Pharmacy
+1966,Yes,1989,Sobeys Pharmacy
+1967,Yes,1990,Sobeys Pharmacy
+1968,Yes,1991,Sobeys Pharmacy Stellard Lane
+1969,Yes,1992,Drug Store Pharmacy
+1970,Yes,1993,Wal-Mart Pharmacy
+1971,Yes,1994,Lincoln Medical Pharmacy
+1972,Yes,1995,Woodlawn Pharmacy
+1973,Yes,1996,Remedy's Rx On Kent
+1974,Yes,1997,Sobey's Pharmacy
+1975,Yes,1998,Wal-Mart Pharmacy
+1976,Yes,1999,Wal-Mart Pharmacy
+1977,Yes,2000,Urgent Care Pharmacy
+1978,Yes,2001,Janzen's Pharmacy Westfort Village
+1979,Yes,2002,Loblaw Pharmacy
+1980,Yes,2003,Shoppers Drug Mart
+1981,Yes,2004,St George Ancaster Pharmacy
+1982,Yes,2005,St. Andrew Pharmacy
+1983,Yes,2006,DrugSmart Pharmacy
+1984,Yes,2007,Rest Acres Pharmacy
+1985,Yes,2008,Fairview Remedy's
+1986,Yes,2009,Pond Mills Medical Pharmacy
+1987,Yes,2010,Janzen's Pharmacy
+1988,Yes,2011,Wal-Mart Pharmacy
+1989,Yes,2012,NoFrills Pharmacy
+1990,Yes,2013,Richmond Pharmacy
+1991,Yes,2014,Keene Drug Mart
+1992,Yes,2015,Lanark Medical Pharmacy
+1993,Yes,2016,Pharmasave Shellard Lane Pharmacy
+1994,Yes,2017,Wal-Mart Pharmacy
+1995,Yes,2018,Dunwin Pharmacy
+1996,Yes,2019,The Medicine Shoppe Pharmacy
+1997,Yes,2020,Mahdieh's Pharmacy
+1998,Yes,2021,Walker Road Pharmacy
+1999,Yes,2022,Community Care Pharmacy
+2000,Yes,2023,Thunder Bay Care Pharmacy
+2001,Yes,2024,Charlotte Care Pharmacy
+2002,Yes,2025,Modern Pharmacy
+2003,Yes,2026,Village Pharmacy
+2004,Yes,2027,Metro Pharmacy
+2005,Yes,2028,Queens Pharmacy
+2006,Yes,2029,Primary Care Pharmacy
+2007,Yes,2030,North Brant Pharmacy
+2008,Yes,2031,Port Health Pharmacy
+2009,Yes,2032,North End Farmacia
+2010,Yes,2033,Little Avenue Pharmacy Pharmacy
+2011,Yes,2034,Avonmore Pharmacy
+2012,Yes,2035,Bowmanville Compounding Pharmacy
+2013,Yes,2036,Barrhaven Medical Pharmacy
+2014,Yes,2037,Longfields Pharmacy
+2015,Yes,2038,Plattsville Guardian Pharmacy
+2016,Yes,2039,Health Treasure Pharmacy
+2017,Yes,2040,Quinte West Pharmacy
+2018,Yes,2041,Owen Sound IDA Pharmacy
+2019,Yes,2042,Pharmacie St. Charles Pharmacy
+2020,Yes,2043,Ajax Guardian Pharmacy
+2021,Yes,2044,Prince Edward Pharmacy
+2022,Yes,2045,Leeds Pharmacy
+2023,Yes,2046,Odessa Pharmacy
+2024,Yes,2047,Everett Pharmacy
+2025,Yes,2048,City Med Pharmacy
+2026,Yes,2049,Riverdale Pharmacy
+2027,Yes,2050,Hollands Family Pharmacy
+2028,Yes,2051,Glenroy Pharmacy
+2029,Yes,2052,North Care Medical Pharmacy
+2030,Yes,2053,Knight Hill Pharmacy
+2031,Yes,2054,Dundas Quinte Pharmacy
+2032,Yes,2055,Mallorytown Pharmacy & Health
+2033,Yes,2056,Innisfil Drugstore
+2034,Yes,2057,Thorold Medical Pharmacy
+2035,Yes,2058,Fergus Pharmacy & Compounding
+2036,Yes,2059,Health Centre Pharmacy
+2037,Yes,2060,Phillbrook Pharmacy
+2038,Yes,2061,River Road Pharmacy
+2039,Yes,2062,Health Hub Pharmacy
+2040,Yes,2063,Cambridge Medical Pharmacy
+2041,Yes,2064,Pharmacie Wendover
+2042,Yes,2065,Townline Pharmacy
+2043,Yes,2066,Marshall Park Pharmacy
+2044,Yes,2067,Prorenata Pharmacy
+2045,Yes,2068,Cottam Pharmacy
+2046,Yes,2069,Shoppers Drug Mart
+2047,Yes,2070,Shoppers Drug Mart
+2048,Yes,2071,Shoppers Drug Mart
+2049,Yes,2072,Wardrop Pharmasave
+2050,Yes,2073,Clark's Pharmasave
+2051,Yes,2074,Merrett's Pharmacy
+2052,Yes,2075,Dean's Pharmasave
+2053,Yes,2076,Shoppers Drug Mart
+2054,Yes,2077,Vankleekhill Pharmacy
+2055,Yes,2078,Shoppers Drug Mart
+2056,Yes,2079,Shoppers Drug Mart
+2057,Yes,2080,Clark's Health Centre Pharmsave
+2058,Yes,2081,Medical Pharmacy
+2059,Yes,2082,Woodroffe Pharmacy
+2060,Yes,2083,Quarry Medical Pharmacy
+2061,Yes,2084,Pitt Street Pharmacy
+2062,Yes,2085,Procare Pharmacy
+2063,Yes,2086,Pharmacie Alfred
+2064,Yes,2087,Shoppers Drug Mart
+2065,Yes,2088,Shoppers Drug Mart
+2066,Yes,2089,Pharmacie Aubin Pharmacy
+2067,Yes,2090,Life Care Pharmacy
+2068,Yes,2091,Coniston Pharmacy
+2069,Yes,2092,Safeway Pharmacy
+2070,Yes,2093,Safeway Pharmacy
+2071,Yes,2094,Fairway River Pharmacy
+2072,Yes,2095,Huntsville's Hometown IDA Drug
+2073,Yes,2096,Lincoln Centre Pharmacy
+2074,Yes,2097,Havelock Pharmacy
+2075,Yes,2098,Royal Medical Pharmasave
+2076,Yes,2099,Rexall
+2077,Yes,2100,Rexall
+2078,Yes,2101,Rexall
+2079,Yes,2102,Rexall
+2080,Yes,2103,Pharma Plus
+2081,Yes,2104,Rexall
+2082,Yes,2105,Rexall
+2083,Yes,2106,Rexall
+2084,Yes,2107,Rexall
+2085,Yes,2108,Rexall
+2086,Yes,2109,Rexall
+2087,Yes,2110,Rexall
+2088,Yes,2111,Rexall
+2089,Yes,2112,Rexall
+2090,Yes,2113,Rexall
+2091,Yes,2114,Rexall
+2092,Yes,2115,Port Rowan Pharmasave
+2093,Yes,2116,Shoppers Drug Mart
+2094,Yes,2117,Shoppers Drug Mart
+2095,Yes,2118,Allwell Pharmacy
+2096,Yes,2119,Brown's Guardian Pharmacy
+2097,Yes,2120,Shoppers Drug Mart
+2098,Yes,2121,PharmaWell Drugmart
+2099,Yes,2122,Carlingwood Pharmacy
+2100,Yes,2123,Sioux Lookout Remedy's Rx
+2101,Yes,2124,Embrun Compounding Pharmacy
+2102,Yes,2125,Madill Health-Aid Pharmacy
+2103,Yes,2126,Ideal Drug Mart
+2104,Yes,2127,Wellington Square Drug Mart
+2105,Yes,2128,Shoppers Drug Mart
+2106,Yes,2129,Shoppers Drug Mart
+2107,Yes,2130,Hubbard Pharmacy
+2108,Yes,2131,Lively Pharmacy
+2109,Yes,2132,Shoppers Drug Mart
+2110,Yes,2133,Shoppers Drug Mart
+2111,Yes,2134,Shoppers Drug Mart
+2112,Yes,2135,Wal-Mart Pharmacy
+2113,Yes,2136,Shoppers Drug Mart
+2114,Yes,2137,The Medicine Shoppe
+2115,Yes,2138,Shoppers Drug Mart
+2116,Yes,2139,Shoppers Drug Mart
+2117,Yes,2140,Medical Pharmacy
+2118,Yes,2141,Shoppers Drug Mart
+2119,Yes,2142,Seaway Valley Pharmacy
+2120,Yes,2143,Wasaga Beach IDA
+2121,Yes,2144,Rainbow Pharmasave
+2122,Yes,2145,Shoppers Drug Mart
+2123,Yes,2146,Minden Pharmasave
+2124,Yes,2147,Russell Pharmacy
+2125,Yes,2148,Shoppers Drug Mart
+2126,Yes,2149,Rexall
+2127,Yes,2150,Rexall
+2128,Yes,2151,Rexall
+2129,Yes,2152,Rexall
+2130,Yes,2153,Rexall
+2131,Yes,2154,Rexall
+2132,Yes,2155,Rexall
+2133,Yes,2156,Rexall
+2134,Yes,2157,Rexall
+2135,Yes,2158,Rexall
+2136,Yes,2159,Rexall
+2137,Yes,2160,Rexall
+2138,Yes,2161,Rexall
+2139,Yes,2162,Rexall Pharma Plus
+2140,Yes,2163,Pharma Plus
+2141,Yes,2164,Rexall
+2142,Yes,2165,Rexall
+2143,Yes,2166,Rexall
+2144,Yes,2167,Rexall
+2145,Yes,2168,Shoppers Simply Pharmacy
+2146,Yes,2169,Northview Remedy's Rx
+2147,Yes,2170,Shoppers Simply Pharmacy
+2148,Yes,2171,Shoppers Drug Mart
+2149,Yes,2172,Rx Drug Mart
+2150,Yes,2173,St. Denis Hawkesbury Pharmacy
+2151,Yes,2174,Stewart Guardian Pharmacy
+2152,Yes,2175,Little Current Guardian Pharmacy
+2153,Yes,2176,Shoppers Drug Mart
+2154,Yes,2177,Pharmasave Allandale
+2155,Yes,2178,Shoppers Drug Mart
+2156,Yes,2179,Drugsmart Pharmacy
+2157,Yes,2180,Shoppers Drug Mart
+2158,Yes,2181,Manitouwadge Pharmacy
+2159,Yes,2182,Shoppers Drug Mart
+2160,Yes,2183,Midnite Pharmacy
+2161,Yes,2184,Shoppers Drug Mart
+2162,Yes,2185,Shoppers Drug Mart
+2163,Yes,2186,Shoppers Drug Mart
+2164,Yes,2187,Shoppers Drug Mart
+2165,Yes,2188,Shoppers Drug Mart
+2166,Yes,2189,Shoppers Drug Mart
+2167,Yes,2190,Shoppers Drug Mart
+2168,Yes,2191,Shoppers Drug Mart
+2169,Yes,2192,Medical Place Pharmacy
+2170,Yes,2193,Shoppers Drug Mart
+2171,Yes,2194,Rx Drug Mart
+2172,Yes,2195,Shoppers Drug Mart
+2173,Yes,2196,Shoppers Drug Mart
+2174,Yes,2197,Rockland Pharmacy
+2175,Yes,2198,Rexall
+2176,Yes,2199,Rexall
+2177,Yes,2200,Rexall
+2178,Yes,2201,Rexall
+2179,Yes,2202,Espanola Remedy's Rx
+2180,Yes,2203,Shoppers Drug Mart
+2181,Yes,2204,Shoppers Drug Mart
+2182,Yes,2205,Pharmacie Jean Coutu
+2183,Yes,2206,Westmount Pharmacy Remedy's Rx
+2184,Yes,2207,Shopper's Drug Mart
+2185,Yes,2208,Stuart Ellis Pharmacy
+2186,Yes,2209,Shoppers Drug Mart
+2187,Yes,2210,Shoppers Drug Mart
+2188,Yes,2211,Shoppers Drug Mart
+2189,Yes,2212,Rexall
+2190,Yes,2213,Shoppers Drug Mart
+2191,Yes,2214,Shoppers Drug Mart
+2192,Yes,2215,Shoppers Drug Mart
+2193,Yes,2216,Shoppers Drug Mart
+2194,Yes,2217,Shoppers Drug Mart
+2195,Yes,2218,Shoppers Drug Mart
+2196,Yes,2219,Shoppers Drug Mart
+2197,Yes,2220,Shoppers Drug Mart
+2198,Yes,2221,Shoppers Drug Mart
+2199,Yes,2222,Shoppers Drug Mart
+2200,Yes,2223,Shoppers Drug Mart
+2201,Yes,2224,Shoppers Drug Mart
+2202,Yes,2225,Shoppers Drug Mart
+2203,Yes,2226,Shoppers Drug Mart
+2204,Yes,2227,Shoppers Drug Mart
+2205,Yes,2228,Shoppers Drug Mart
+2206,Yes,2229,Shoppers Drug Mart
+2207,Yes,2230,Shoppers Drug Mart
+2208,Yes,2231,Shoppers Drug Mart
+2209,Yes,2232,Shoppers Drug Mart
+2210,Yes,2233,Shoppers Drug Mart
+2211,Yes,2234,Shoppers Drug Mart
+2212,Yes,2235,Shoppers Simply Pharmacy
+2213,Yes,2236,Shoppers Drug Mart
+2214,Yes,2237,Shoppers Drug Mart
+2215,Yes,2238,Shoppers Drug Mart
+2216,Yes,2239,Shoppers Drug Mart
+2217,Yes,2240,Shoppers Drug Mart
+2218,Yes,2241,Shoppers Drug Mart
+2219,Yes,2242,Shoppers Drug Mart
+2220,Yes,2243,Shoppers Drug Mart
+2221,Yes,2244,Shoppers Drug Mart
+2222,Yes,2245,Shoppers Drug Mart
+2223,Yes,2246,Hogan Pharmacy
+2224,Yes,2247,Aylmer IDA Pharmacy
+2225,Yes,2248,Shoppers Drug Mart
+2226,Yes,2249,Shoppers Drug Mart
+2227,Yes,2250,Shoppers Drug Mart
+2228,Yes,2251,Shoppers Drug Mart
+2229,Yes,2252,Shoppers Drug Mart
+2230,Yes,2253,Shoppers Drug Mart
+2231,Yes,2254,Shoppers Drug Mart
+2232,Yes,2255,Shoppers Drug Mart
+2233,Yes,2256,Roulston's Pharmacy
+2234,Yes,2257,Northville Pharmacy
+2235,Yes,2258,Wallaceburg Pharmacy
+2236,Yes,2259,Food Basics Pharmacy
+2237,Yes,2260,Centre Wellington Remedy's Rx
+2238,Yes,2261,Zehrs Markets
+2239,Yes,2262,Peter Street Pharmacy
+2240,Yes,2263,Wal-Mart Pharmacy
+2241,Yes,2264,Ingleside Pharmasave
+2242,Yes,2265,Stroud Pharmacy
+2243,Yes,2266,Shoppers Drug Mart
+2244,Yes,2267,Shoppers Drug Mart
+2245,Yes,2268,Val-Est Pharmacy
+2246,Yes,2269,Shoppers Drug Mart
+2247,Yes,2270,Lifeline Pharmacy
+2248,Yes,2271,Wal-Mart Pharmacy
+2249,Yes,2272,Shoppers Drug Mart
+2250,Yes,2273,Shoppers Drug Mart
+2251,Yes,2274,Shoppers Drug Mart
+2252,Yes,2275,Conway's Pharmacy
+2253,Yes,2276,Drugstore Pharmacy
+2254,Yes,2277,The Chemist Pharmacy
+2255,Yes,2278,North London Medical Pharmacy
+2256,Yes,2279,Pollock & Williams Pharmacy
+2257,Yes,2280,Custom Care Pharmacy & Compounding
+2258,Yes,2281,McNaughton Pharmacy
+2259,Yes,2282,Turbitt Pharmacy Pharmasave
+2260,Yes,2283,Med Rx Altabank Pharmacy
+2261,Yes,2284,Bradley Pharmacy
+2262,Yes,2285,Madill's IDA Pharmacy
+2263,Yes,2286,Hogan Pharmacy
+2264,Yes,2287,Wal-Mart Pharmacy
+2265,Yes,2288,Wal-Mart Pharmacy
+2266,Yes,2289,Fullerton Drugs
+2267,Yes,2290,Fullerton Drugs
+2268,Yes,2291,Bayshore Pharmacy
+2269,Yes,2292,Medical Building Pharmacy
+2270,Yes,2293,Riepert Pharmasave
+2271,Yes,2294,Beech Medical Pharmacy
+2272,Yes,2295,White Cross Dispensary
+2273,Yes,2296,Marathon Drug Associates
+2274,Yes,2297,Johnstons Pharmacy
+2275,Yes,2298,Jean Coutu Pharmacie
+2276,Yes,2299,Centennial Pharmacy
+2277,Yes,2300,Hauser's Pharmasave
+2278,Yes,2301,McMaster Drugstore
+2279,Yes,2302,Guildview Pharmacy
+2280,Yes,2303,Shoppers Drug Mart
+2281,Yes,2304,Vina Pharmacy
+2282,Yes,2305,Limeridge Medical Pharmacy
+2283,Yes,2306,Cancer Centre Pharmacy
+2284,Yes,2307,Wal-Mart Pharmacy
+2285,Yes,2308,Riverside Pharmacare Drug Mart
+2286,Yes,2309,Loblaw Pharmacy
+2287,Yes,2310,Wal-Mart Pharmacy
+2288,Yes,2311,Wal-Mart Pharmacy
+2289,Yes,2312,Student Centre Pharmacy
+2290,Yes,2313,Wal-Mart Pharmacy
+2291,Yes,2314,Metro Pharmacy
+2292,Yes,2315,Wal-Mart Pharmacy
+2293,Yes,2316,Wal-Mart Pharmacy
+2294,Yes,2317,Loblaw Pharmacy
+2295,Yes,2318,NoFrills Pharmacy
+2296,Yes,2319,Park Pharmacy
+2297,Yes,2320,Metro Pharmacy
+2298,Yes,2321,Drugstore Pharmacy
+2299,Yes,2322,Drugstore Pharmacy
+2300,Yes,2323,Pharmacie Noelville Pharmacy
+2301,Yes,2324,IDA Prescription Centre
+2302,Yes,2325,Food Basics Pharmacy
+2303,Yes,2326,London Medical Pharmacy
+2304,Yes,2327,Metro Pharmacy
+2305,Yes,2328,Metro Pharmacy
+2306,Yes,2329,Metro Pharmacy
+2307,Yes,2330,Metro Pharmacy
+2308,Yes,2331,Food Basics Pharmacy
+2309,Yes,2332,Food Basics Pharmacy
+2310,Yes,2333,Metro Pharmacy
+2311,Yes,2334,Metro Pharmacy
+2312,Yes,2335,Food Basics Pharmacy
+2313,Yes,2336,Drugstore Pharmacy
+2314,Yes,2337,Drugstore Pharmacy
+2315,Yes,2338,Metro Pharmacy
+2316,Yes,2339,Drugstore Pharmacy
+2317,Yes,2340,Food Basics Pharmacy
+2318,Yes,2341,Wal-Mart Pharmacy
+2319,Yes,2342,Loblaw Pharmacy
+2320,Yes,2343,Eagle Place Apothecary
+2321,Yes,2344,Wal-Mart Pharmacy
+2322,Yes,2345,Food Basics Pharmacy
+2323,Yes,2346,Sobeys Pharmacy
+2324,Yes,2347,Hanover Pharmasave
+2325,Yes,2348,NoFrills Pharmacy
+2326,Yes,2349,Wal-Mart Pharmacy
+2327,Yes,2350,Prime Care Pharmacy Arboretum
+2328,Yes,2351,Sobeys Pharmacy
+2329,Yes,2352,Freshco Pharmacy
+2330,Yes,2353,Sobeys Pharmacy
+2331,Yes,2354,Morelli's Pharmacy
+2332,Yes,2355,Sobeys Pharmacy
+2333,Yes,2356,Wal-Mart Pharmacy
+2334,Yes,2357,Sobeys Pharmacy
+2335,Yes,2358,Rolling Hills Pharmacy
+2336,Yes,2359,Wal-Mart Pharmacy
+2337,Yes,2360,Wal-Mart Pharmacy
+2338,Yes,2361,Wellington Medical Pharmacy
+2339,Yes,2362,Hunt's Pharmacy
+2340,Yes,2363,Sobeys Pharmacy
+2341,Yes,2364,University Pharmacy
+2342,Yes,2365,Drugstore Pharmacy
+2343,Yes,2366,Sobeys Pharmacy
+2344,Yes,2367,Wal-Mart Pharmacy
+2345,Yes,2368,Wal-Mart Pharmacy
+2346,Yes,2369,Wal-Mart Pharmacy
+2347,Yes,2370,Goyeau Pharmacy
+2348,Yes,2371,Wal-Mart Pharmacy
+2349,Yes,2372,Vidal Pharmacy
+2350,Yes,2373,Sobeys Pharmacy
+2351,Yes,2374,Airport Pharmacy
+2352,Yes,2375,Shoppers Drug Mart
+2353,Yes,2376,Maple Drug Mart
+2354,Yes,2377,Sherbrooke Heights Pharmacy
+2355,Yes,2378,Sobeys Pharmacy
+2356,Yes,2379,Niagara Street Remedy's Rx
+2357,Yes,2380,Wal-Mart Pharmacy
+2358,Yes,2381,Wal-Mart Pharmacy
+2359,Yes,2382,Brampton Medical Plex Pharmacy
+2360,Yes,2383,Sobeys Pharmacy
+2361,Yes,2384,Portage Medical Pharmacy
+2362,Yes,2385,Wal-Mart Pharmacy
+2363,Yes,2386,Guardian Hills Pharmacy
+2364,Yes,2387,Whole Health Durham Apothecary
+2365,Yes,2388,Procare Pharmacy
+2366,Yes,2389,Pleasant Park Pharmacy
+2367,Yes,2390,Hamilton General Drugstore
+2368,Yes,2391,Bowmanville Pharmacy
+2369,Yes,2392,London University Pharmasave
+2370,Yes,2393,Sandalwood Care Pharmacy
+2371,Yes,2394,Maple Leaf Medical Pharmacy
+2372,Yes,2395,Willow Pharmacy
+2373,Yes,2396,Clarkson Pharmachoice
+2374,Yes,2397,Danforth Neighbourhood Pharmacy Care
+2375,Yes,2398,Bowmanville Medical Pharmacy
+2376,Yes,2399,Freshco Pharmacy
+2377,Yes,2400,Westwood Pharmacy Pharmasave
+2378,Yes,2401,Main Street Centre Pharmacy
+2379,Yes,2402,Spring Valley Pharmacy
+2380,Yes,2403,Wellington Drug Store
+2381,Yes,2404,Trent Hills Pharmacy
+2382,Yes,2405,Cloud Pharmacy
+2383,Yes,2406,London Care Pharmacy
+2384,Yes,2407,People's Pharmachoice
+2385,Yes,2408,Thornton Pharmacy & Health Food
+2386,Yes,2409,Queens Pharmacy
+2387,Yes,2410,River Terrace Medical Pharmacy
+2388,Yes,2411,Strandherd Guardian Pharmacy
+2389,Yes,2412,Noble IDA Pharmacy
+2390,Yes,2413,Wal-Mart Pharmacy
+2391,Yes,2414,Midland Pharmacy
+2392,Yes,2415,One Medical Pharmacy
+2393,Yes,2416,Port Hope Community Pharmacy
+2394,Yes,2417,McKnight Pharmacy
+2395,Yes,2418,Palmyra Guardian Pharmacy
+2396,Yes,2419,Sobeys Pharmacy
+2397,Yes,2420,Tower Street Pharmacy
+2398,Yes,2421,Grafton Healthcare Pharmacy
+2399,Yes,2422,Harmony Valley Pharmacy Remedy's
+2400,Yes,2423,Little Britain Pharmacy
+2401,Yes,2424,Grand Pharmacy
+2402,Yes,2425,Church Street Pharmacy
+2403,Yes,2426,Wiltshire Remedy's Rx
+2404,Yes,2427,CATP Cornwall
+2405,Yes,2428,N.K.S. Health
+2406,Yes,2429,Agape Pharmacy
+2407,Yes,2430,Grace Drug Store
+2408,Yes,2431,Academy Medical Pharmacy
+2409,Yes,2432,Listowel Pharmacy
+2410,Yes,2433,Medpro Health Pharmacy
+2411,Yes,2434,DrugSmart Pharmacy
+2412,Yes,2435,Big Bay Guardian Pharmacy
+2413,Yes,2436,Port Dalhousie Pharmacy
+2414,Yes,2437,Midland Clinic IDA Pharmacy
+2415,Yes,2438,Pharmasave Adel Pharmacy
+2416,Yes,2439,Pharma Center
+2417,Yes,2440,Pharmasave Sally's Pharmacy
+2418,Yes,2441,Silver Fox Pharmacy
+2419,Yes,2442,Yuan Ming Pharmacy
+2420,Yes,2443,Wal-Mart Pharmacy
+2421,Yes,2444,Sobeys Pharmacy
+2422,Yes,2445,Pharmasave Trenton
+2423,Yes,2446,North Bay Regional Pharmacy
+2424,Yes,2447,Windsor House Pharmacy
+2425,Yes,2448,Royal Oaks Pharmacy
+2426,Yes,2449,Maidstone IDA
+2427,Yes,2450,Guelph Discount Pharmacy
+2428,Yes,2451,Queen Care Pharmacy
+2429,Yes,2452,Benton Medical Pharmacy
+2430,Yes,2453,Janzen's Pharmacy
+2431,Yes,2454,Gage Pharmacy
+2432,Yes,2455,Emerald Pharmacy
+2433,Yes,2456,Duke Pharmacy
+2434,Yes,2457,Myers Pharmacy
+2435,Yes,2458,Midland Guardian Pharmacy
+2436,Yes,2459,Pharmacie Limoges Guardian Pharmacy
+2437,Yes,2460,Ultima Pharmacy
+2438,Yes,2461,Brinkley Pharmacy
+2439,Yes,2462,Smithville Pharmacy
+2440,Yes,2463,Erb St. IDA Pharmacy
+2441,Yes,2464,1 Clinic Rx Pharmacy
+2442,Yes,2465,Main St. Pharmacy & Wellness Cnt
+2443,Yes,2466,Calabogie Pharmacy
+2444,Yes,2467,Rexall
+2445,Yes,2468,Total Health Pharmacy
+2446,Yes,2469,IDA Richmond Medical Pharmacy
+2447,Yes,2470,Community Drug Mart
+2448,Yes,2471,Integrated Care Pharmacy
+2449,Yes,2472,Community Drug Mart
+2450,Yes,2473,Byron Community Pharmacy
+2451,Yes,2474,North Park Pharmacy
+2452,Yes,2475,Rexall
+2453,Yes,2476,Merival IDA Pharmacy
+2454,Yes,2477,Niagara Falls Pharmacy
+2455,Yes,2478,Belleville Pharmacy
+2456,Yes,2479,Eagle Ridge Pharmacy
+2457,Yes,2480,Courtice Medical Pharmacy
+2458,Yes,2481,Synergy Remedy's Rx
+2459,Yes,2482,Oasis Drug Mart
+2460,Yes,2483,Apothecare Pharmacy
+2461,Yes,2484,Kerr Speers Pharmacy
+2462,Yes,2485,Mi Clinic Pharmacy
+2463,Yes,2486,Breslau Commons Pharmacy
+2464,Yes,2487,Ferndale Pharmacy
+2465,Yes,2488,Yurek Pharmacy & Home Healthcare
+2466,Yes,2489,Bradford Medex Pharmacy
+2467,Yes,2490,Beverly Hills Pharmacy
+2468,Yes,2491,New Life Family Pharmacy
+2469,Yes,2492,Advanced Pharmacy
+2470,Yes,2493,United Care Specialty Pharmacy
+2471,Yes,2494,Parkdale Pharmasave
+2472,Yes,2495,Somerville Family Pharmacy
+2473,Yes,2496,Trent Drug Mart
+2474,Yes,2497,Prince William Way Pharmasave
+2475,Yes,2498,Whole Health Pharmacy Riverview
+2476,Yes,2499,Royal Simcoe Pharmacy
+2477,Yes,2500,Jockvale Pharmacy & Clinic
+2478,Yes,2501,Freshco Pharmacy
+2479,Yes,2502,Pharmacie St. Isidore Pharmacy
+2480,Yes,2503,Pharmacy Corner - Woodstock
+2481,Yes,2504,Pharmacie Alban Pharmacy
+2482,Yes,2505,Freshco Pharmacy
+2483,Yes,2506,Danforth Village Pharmacy
+2484,Yes,2507,Faircare & CDE Pharmacy
+2485,Yes,2508,Pharmacie Notre Dame Pharmacy
+2486,Yes,2509,Perth Family Pharmacy
+2487,Yes,2510,Ottawa South Compounding Pharmacy
+2488,Yes,2511,Pharmacy Go - Kingston
+2489,Yes,2512,Seasons Pharmacy and Culinaria
+2490,Yes,2513,Hyde Park Care Pharmacy
+2491,Yes,2514,Ford Drive Pharmacy
+2492,Yes,2515,Optimum Pharmacy
+2493,Yes,2516,Cook's Pharmacy
+2494,Yes,2517,Moose Creek Pharmacy
+2495,Yes,2518,Townline Pharmacy
+2496,Yes,2519,Strasburg Crossing Pharmasave
+2497,Yes,2520,Whole Health Pharmacy Ogilvie
+2498,Yes,2521,Oak Street East Pharmacy
+2499,Yes,2522,Metro Pharmacy
+2500,Yes,2523,Welland Pharmasave
+2501,Yes,2524,Walters Pharmacy
+2502,Yes,2525,Deep River's Pharmacy
+2503,Yes,2526,Northland Pharmacy
+2504,Yes,2527,Parkway Pharmacy
+2505,Yes,2528,Swift Compounding Pharmacy
+2506,Yes,2529,Alcona 2 Pharmacy
+2507,Yes,2530,Pharmaright Pharmacy
+2508,Yes,2531,Wilson Pro Pharmacy
+2509,Yes,2532,Rosedale Pharmacy
+2510,Yes,2533,Metro Pharmacy
+2511,Yes,2534,Shoppers Drug Mart
+2512,Yes,2535,Pharma Land
+2513,Yes,2536,Stevensville Pharmacy
+2514,Yes,2537,Cobourg Care Pharmacy
+2515,Yes,2538,Welland Life Compounding Pharmacy
+2516,Yes,2539,Top Health Apothecary
+2517,Yes,2540,Iris Compounding Pharmacy
+2518,Yes,2541,Prime Medical Pharmacy
+2519,Yes,2542,Akron Pharmacy
+2520,Yes,2543,Heritage Pharmacy
+2521,Yes,2544,Lopresti Pharmacy
+2522,Yes,2545,McNeil Parkdale Pharmacy
+2523,Yes,2546,Shoppers Drug Mart
+2524,Yes,2547,Group Health Centre Pharmacy
+2525,Yes,2548,Shoppers Drug Mart
+2526,Yes,2549,O.M.C Pharmacy
+2527,Yes,2550,Pharmacie Jean Coutu Pharmacy
+2528,Yes,2551,Highland Drug Mart
+2529,Yes,2552,Coronation Medical Pharmacy
+2530,Yes,2553,Fifth Avenue Pharmacy
+2531,Yes,2554,Pharmacie Jean Coutu Pharmacy
+2532,Yes,2555,Queen Lynch Pharmacy
+2533,Yes,2556,Datu's Pharmacy
+2534,Yes,2557,Whitby Community IDA
+2535,Yes,2558,Main Drug Mart
+2536,Yes,2559,Medicine Shoppe Pharmacy
+2537,Yes,2560,John & Weston Discount Drugs
+2538,Yes,2561,Wal-Mart Pharmacy
+2539,Yes,2562,Medical Centre Pharmacy
+2540,Yes,2563,Lighthouse IDA Compounding Pharmacy
+2541,Yes,2564,Dundas Clinical Pharmacy
+2542,Yes,2565,Grantham Pharmacy
+2543,Yes,2566,Drewport Pharmacy
+2544,Yes,2567,Greenbank Pharmacy
+2545,Yes,2568,Chelmsford Pharmacy
+2546,Yes,2569,Safeway Pharmacy
+2547,Yes,2570,Kinmount Pharmacy
+2548,Yes,2571,Food Basics Pharmacy
+2549,Yes,2572,Welland Medical Pharmacy
+2550,Yes,2573,Dara Pharmacy
+2551,Yes,2574,Theodore Pharmacy
+2552,Yes,2575,Downey Pharmacy
+2553,Yes,2576,TMC Pharmacy
+2554,Yes,2577,Stewart's Pharmacy
+2555,Yes,2578,Ray Pharmacy
+2556,Yes,2579,Dalecliff Medical Pharmacy
+2557,Yes,2580,St. Mary Pharmacy
+2558,Yes,2581,Prisms Pharmasave
+2559,Yes,2582,Pine Grove Pharmacy
+2560,Yes,2583,Medicine Shoppe Pharmacy
+2561,Yes,2584,Woods Drug Store
+2562,Yes,2585,Rexall
+2563,Yes,2586,Rexall
+2564,Yes,2587,Rexall
+2565,Yes,2588,Rexall
+2566,Yes,2589,Rexall
+2567,Yes,2590,Rexall
+2568,Yes,2591,Franklin Pharmacy
+2569,Yes,2592,Belleville Pharmasave
+2570,Yes,2593,Orchardview Pharmacy
+2571,Yes,2594,Rowan Drugs
+2572,Yes,2595,Rite Care Pharmacy
+2573,Yes,2596,BMC Pharmacy
+2574,Yes,2597,BMC Pharmacy
+2575,Yes,2598,Shoppers Simply Pharmacy
+2576,Yes,2599,Rexall
+2577,Yes,2600,Shoppers Drug Mart
+2578,Yes,2601,Elgin Mills Crossing Pharmacy
+2579,Yes,2602,PharmaWell Drugmart
+2580,Yes,2603,Kozlov Guardian Pharmacy
+2581,Yes,2604,Robertson's Drug Store
+2582,Yes,2605,Taylor Creek Pharmacy
+2583,Yes,2606,Wincare Drug Mart
+2584,Yes,2607,Marcos Pharmacy
+2585,Yes,2608,Metcalfe Pharmacy
+2586,Yes,2609,Broadway Pharmacy
+2587,Yes,2610,Pharmasave Michael's Pharmacy
+2588,Yes,2611,Pharmacy Go Caledonia
+2589,Yes,2612,Mostar Pharmacy
+2590,Yes,2613,Chatham Centre Pharmacy
+2591,Yes,2614,Mcdonald's Pharmacy
+2592,Yes,2615,Market Mall Pharmacy
+2593,Yes,2616,Yonge Cummer Pharmacy
+2594,Yes,2617,Rexall
+2595,Yes,2618,Pharmacie Medione
+2596,Yes,2619,Shuter St. Pharmacy
+2597,Yes,2620,Community Choice Pharmacy-Rexdale
+2598,Yes,2621,Port Medical Pharmacy
+2599,Yes,2622,Wallace's Drug Store
+2600,Yes,2623,Shoppers Drug Mart
+2601,Yes,2624,Pharmasave Casselman Pharmacy
+2602,Yes,2625,Shoppers Drug Mart
+2603,Yes,2626,Shoppers Drug Mart
+2604,Yes,2627,Gordon's Pharmacy (IDA)
+2605,Yes,2628,Shoppers Drug Mart
+2606,Yes,2629,Medical Centre Pharmacy
+2607,Yes,2630,Shoppers Drug Mart
+2608,Yes,2631,Bancroft IDA Drug Mart
+2609,Yes,2632,Medical Pharmacy
+2610,Yes,2633,Springbank Pharmacy
+2611,Yes,2634,Niagara Falls Centre Pharmacy
+2612,Yes,2635,Medical Pharmacy
+2613,Yes,2636,Shoppers Drug Mart
+2614,Yes,2637,Total Health Pharmacy
+2615,Yes,2638,River Run Pharmacy
+2616,Yes,2639,First Medical Pharmacy
+2617,Yes,2640,Wal-Mart Pharmacy
+2618,Yes,2641,Whitby Medical Pharmacy
+2619,Yes,2642,Remedy's Healthcare Plus Pharmacy
+2620,Yes,2643,St. George Pharmacy
+2621,Yes,2644,Shoppers Drug Mart
+2622,Yes,2645,CATP Oshawa
+2623,Yes,2646,Lambeth Drugs
+2624,Yes,2647,Somerset Drugs
+2625,Yes,2648,Pharmasave The Clinic Pharmacy
+2626,Yes,2649,Rexall Pharma Plus
+2627,Yes,2650,Rexall
+2628,Yes,2651,Rexall
+2629,Yes,2652,Rexall
+2630,Yes,2653,Rexall
+2631,Yes,2654,Rexall
+2632,Yes,2655,Rexall
+2633,Yes,2656,Rexall
+2634,Yes,2657,Rexall
+2635,Yes,2658,Rexall Pharma Plus
+2636,Yes,2659,Rexall
+2637,Yes,2660,Rexall
+2638,Yes,2661,Rexall
+2639,Yes,2662,Powassan Drug Mart
+2640,Yes,2663,Rx Drug Mart
+2641,Yes,2664,Rx Drug Mart
+2642,Yes,2665,Speedvale Pharmacy & Compounding Centre
+2643,Yes,2666,University Pharmacy
+2644,Yes,2667,Shoppers Drug Mart
+2645,Yes,2668,The Apothecary Shop
+2646,Yes,2669,The Medicine Shoppe
+2647,Yes,2670,Almonte Remedy's Rx
+2648,Yes,2671,Prescott Remedy's Rx
+2649,Yes,2672,Wyndham Pharmasave
+2650,Yes,2673,Chapmans Pharmacy
+2651,Yes,2674,Guardian Sheppard Community Pharmacy
+2652,Yes,2675,Kleinburg Pharmacy
+2653,Yes,2676,K and J Pharmacy
+2654,Yes,2677,Letitia Pharmacy
+2655,Yes,2678,Bristol Pharmacy
+2656,Yes,2679,Shoppers Drug Mart
+2657,Yes,2680,Shoppers Drug Mart
+2658,Yes,2681,Forbes Park Pharmacy
+2659,Yes,2682,Laclie Pharmacy
+2660,Yes,2683,Main Drug Mart
+2661,Yes,2684,Ash Medical Pharmacy
+2662,Yes,2685,Shoppers Drug Mart
+2663,Yes,2686,Riverside Court Pharmacy
+2664,Yes,2687,Chelmsford IDA Pharmacy
+2665,Yes,2688,Rexall
+2666,Yes,2689,Rexall
+2667,Yes,2690,Rexall
+2668,Yes,2691,Lighthouse Pharmacy
+2669,Yes,2692,Rexall
+2670,Yes,2693,Rx Drug Mart
+2671,Yes,2694,Rx Drug Mart
+2672,Yes,2695,Rx Drug Mart
+2673,Yes,2696,Rideau Pharmacy
+2674,Yes,2697,Shoppers Drug Mart
+2675,Yes,2698,Blair Court Pharmacy
+2676,Yes,2699,Shoppers Simply Pharmacy
+2677,Yes,2700,Wal-Mart Pharmacy
+2678,Yes,2701,Highland Remedy's Rx
+2679,Yes,2702,Shoppers Drug Mart
+2680,Yes,2703,Shoppers Drug Mart
+2681,Yes,2704,Shoppers Drug Mart
+2682,Yes,2705,Rexall
+2683,Yes,2706,Rexall
+2684,Yes,2707,Shoppers Drug Mart
+2685,Yes,2708,Shoppers Drug Mart
+2686,Yes,2709,Shoppers Drug Mart
+2687,Yes,2710,Shoppers Drug Mart
+2688,Yes,2711,Shoppers Drug Mart
+2689,Yes,2712,Shoppers Simply Pharmacy
+2690,Yes,2713,Shoppers Drug Mart
+2691,Yes,2714,Shoppers Drug Mart
+2692,Yes,2715,Shoppers Drug Mart
+2693,Yes,2716,Shoppers Drug Mart
+2694,Yes,2717,Shoppers Drug Mart
+2695,Yes,2718,Shoppers Drug Mart
+2696,Yes,2719,Village Pharmacy
+2697,Yes,2720,CAMH Pharmacy
+2698,Yes,2721,All About Health
+2699,Yes,2722,Johnston's Pharmacy
+2700,Yes,2723,Nutrichem Pharmacy
+2701,Yes,2724,Medical Arts Pharmacy
+2702,Yes,2725,Downtown Pharmacy
+2703,Yes,2726,London Medical Pharmacy
+2704,Yes,2727,Constance Bay Pharmacy
+2705,Yes,2728,Shoppers Drug Mart
+2706,Yes,2729,Pharmasave-Adelaide North Pharmacy
+2707,Yes,2730,Shoppers Drug Mart
+2708,Yes,2731,Chatham Pharmasave
+2709,Yes,2732,HD Pharmacy
+2710,Yes,2733,Medi Plus Pharmacy
+2711,Yes,2734,Queenstown Drug Mart
+2712,Yes,2735,Wal-Mart Pharmacy
+2713,Yes,2736,Main Drug Mart
+2714,Yes,2737,Food Basics Pharmacy
+2715,Yes,2738,First Care Pharmacy
+2716,Yes,2739,Shoppers Drug Mart
+2717,Yes,2740,Shoppers Drug Mart
+2718,Yes,2741,Shoppers Drug Mart
+2719,Yes,2742,Shoppers Drug Mart
+2720,Yes,2743,Shoppers Drug Mart
+2721,Yes,2744,Portland Pharmacy
+2722,Yes,2745,Legend Pharmacy
+2723,Yes,2746,Freshco Pharmacy
+2724,Yes,2747,Medical Pharmacy
+2725,Yes,2748,City Centre IDA Pharmacy
+2726,Yes,2749,Life Watch Pharmacy
+2727,Yes,2750,Grand Genesis Pharmacy (Pharmasave)
+2728,Yes,2751,Barton Medical Pharmacy
+2729,Yes,2752,Kanata Mews Pharmacy
+2730,Yes,2753,Highland Plaza IDA
+2731,Yes,2754,1355 Bank Street Pharmacy
+2732,Yes,2755,South Ottawa Pharmacy
+2733,Yes,2756,Riverbend Pharmacy
+2734,Yes,2757,Aikenhead's Drug Store
+2735,Yes,2758,Bridlewood Drug Mart
+2736,Yes,2759,Springbank Dispensary Pharmasave
+2737,Yes,2760,Windsor Crossing Pharmasave
+2738,Yes,2761,TRC Pharmacy Kitchener
+2739,Yes,2762,CATP Sault Ste. Marie
+2740,Yes,2763,CATP Windsor
+2741,Yes,2764,CATP Vanier
+2742,Yes,2765,TRC Pharmacy Hamilton John St.
+2743,Yes,2766,Wellmedica Bay Street
+2744,Yes,2767,Elite Drug Mart
+2745,Yes,2768,Aylmer Street Pharmacy
+2746,Yes,2769,CATP Barrie
+2747,Yes,2770,Northland Pharmacy
+2748,Yes,2771,Robinsons Pharmasave
+2749,Yes,2772,Pharmacy By The Grange
+2750,Yes,2773,Port Perry Pharmacy
+2751,Yes,2774,Mapleview Medical Pharmacy
+2752,Yes,2775,Shoppers Drug Mart
+2753,No,2776,Cedarview Pharmacy
+2754,No,2777,Rexall
+2755,No,2778,Cornerstone Pharmacy
+2756,No,2779,NorthPark Pharmacy
+2757,No,2780,St. James Town Temporary COVID-19 Testing
+2758,Yes,2781,Windsor Regional Hospital -Met COVID 19 Assessment Centre
+2759,Yes,2782,SHN Covid-19 Assessment Centre - Centenary
+2760,Yes,2783,SHN Covid-19 Assessment Centre - Birchmount
+2761,Yes,2784,Rexall Specialty
+2762,Yes,2785,Silverheights Pharmacy
+2763,Yes,2786,McKenzie's IDA Pharmacy
+2764,Yes,2787,Rockcliffe Smythe Pop Up Testing
