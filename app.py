@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import random
-import numpy as np
 
 st.set_page_config(page_title="Info App", page_icon="💊", layout='wide', initial_sidebar_state="collapsed")
 st.write("""
@@ -10,6 +9,9 @@ st.write("""
     """)
 
 def main():
+    covid_testing_df = pd.read_csv('data/covidtesting.csv')
+    vaccine_df = pd.read_csv('data/COVID-19 Vaccine Data.csv')
+    vaccine_df
     centre = pd.read_csv('data/centre.csv')
     centre = centre.drop(columns=['Unnamed: 0'])
     toronto = pd.read_csv('data/toronto_data.csv')
@@ -90,11 +92,14 @@ def main():
             elif (age < 30 and (conds == 0 or hot == 0)):
                     st.markdown(f'<p style="font-weight: bold; color:orange;">Medium Urgency</p>', unsafe_allow_html=True)
     with col4:
-        st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">General Covid-19 Graphed Data</h2>', unsafe_allow_html=True)
+        st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">General Covid-19 Databases</h2>', unsafe_allow_html=True)
         st.write("""Visualize any charts or information we have available""")
-        database = st.selectbox('Select Database', ['Yes', 'No'])
-        chart_data = pd.DataFrame(np.random.randn(20, 3), columns=['a', 'b', 'c'])
-        if database == 'Yes':      
-            st.line_chart(chart_data)
+        database = st.selectbox('Select Database', ['Confirmed Cases and Deaths', 'Total Cases and Total Approved for Testing', 'Vaccines Administered'])
+        if database == 'Confirmed Cases and Deaths':      
+            st.line_chart(covid_testing_df[['Deaths', 'Confirmed Positive']])
+        elif database =='Total Cases and Total Approved for Testing':
+            st.line_chart(covid_testing_df[['Total Cases', 'Total patients approved for testing as of Reporting Date']])
+        else:
+            st.line_chart(vaccine_df[['total_doses_administered', 'total_individuals_fully_vaccinated']])
 if __name__ ==  '__main__':
     main()
