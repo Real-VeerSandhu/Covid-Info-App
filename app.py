@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import random
-# from joblib import load
 
 st.set_page_config(page_title="Info App", page_icon="💊", layout='wide', initial_sidebar_state="collapsed")
 st.write("""
@@ -22,10 +21,6 @@ def main():
     keys2 = list(toronto['Neighbourhood Name'])
     values2 = list(toronto['Neighbourhood ID'])
     location_map_toronto = {keys2[i]: values2[i] for i in range(len(keys2))}
-
-    # print(location_map_toronto, location_map_centres)
-
-    
 
     col1, col2 = st.beta_columns([1,1])
 
@@ -94,12 +89,6 @@ def main():
                     st.markdown(f'<p style="font-weight: bold; color:green;">Low Urgency</p>', unsafe_allow_html=True)
             elif (age < 30 and (conds == 0 or hot == 0)):
                     st.markdown(f'<p style="font-weight: bold; color:green;">Medium Urgency</p>', unsafe_allow_html=True)
-
-
-            
-
-
-
 
 if __name__ ==  '__main__':
     main()
