@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import random
+import numpy as np
 
 st.set_page_config(page_title="Info App", page_icon="💊", layout='wide', initial_sidebar_state="collapsed")
 st.write("""
@@ -52,7 +53,6 @@ def main():
         testing = toronto.copy()
         cases = testing.loc[testing['Neighbourhood ID'] == loc_id]['Case Count']
         per = testing.loc[testing['Neighbourhood ID'] == loc_id]['Rate per 100,000 people']
-        print(type(per))
         st.write('Neighbourhood ID: ', int(loc_id))
         st.write('Total Cases: ', int(cases))
         st.write('Rate per 100,000 people: ', list(per)[0])
@@ -79,7 +79,7 @@ def main():
         if st.button('Go'):
             if (conds == 1 and hot == 1):
                 st.markdown(f'<p style="font-weight: bold; color:red;">High Urgency</p>', unsafe_allow_html=True)
-            if (age >= 65):
+            elif (age >= 65):
                 st.markdown(f'<p style="font-weight: bold; color:red;">High Urgency</p>', unsafe_allow_html=True)
             elif (age >= 55 and (conds == 1 or hot == 1)):
                 st.markdown(f'<p style="font-weight: bold; color:red;">High Urgency</p>', unsafe_allow_html=True)
@@ -89,6 +89,12 @@ def main():
                     st.markdown(f'<p style="font-weight: bold; color:green;">Low Urgency</p>', unsafe_allow_html=True)
             elif (age < 30 and (conds == 0 or hot == 0)):
                     st.markdown(f'<p style="font-weight: bold; color:orange;">Medium Urgency</p>', unsafe_allow_html=True)
-
+    with col4:
+        st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">General Covid-19 Graphed Data</h2>', unsafe_allow_html=True)
+        st.write("""Visualize any charts or information we have available""")
+        database = st.selectbox('Select Database', ['Yes', 'No'])
+        chart_data = pd.DataFrame(np.random.randn(20, 3), columns=['a', 'b', 'c'])
+        if database == 'Yes':      
+            st.line_chart(chart_data)
 if __name__ ==  '__main__':
     main()
