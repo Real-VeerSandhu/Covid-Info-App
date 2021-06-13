@@ -7,6 +7,7 @@ st.write("""
     # Covid-19 Information App
     ----
     """)
+st.warning('Data has been updated as of June 13, 2021')
 
 def main():
     covid_testing_df = pd.read_csv('data/covidtesting.csv')
