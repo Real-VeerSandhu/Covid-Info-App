@@ -4,7 +4,7 @@ import random
 
 st.set_page_config(page_title="Info App", page_icon="💊", layout='wide', initial_sidebar_state="collapsed")
 st.write("""
-    # Covid-19 Information App
+    # COVID-19 Information App (GEC)
     ----
     """)
 st.warning('Data has been updated as of June 13, 2021')
@@ -92,7 +92,7 @@ def main():
             elif (age < 30 and (conds == 0 or hot == 0)):
                     st.markdown(f'<p style="font-weight: bold; color:orange;">Medium Urgency</p>', unsafe_allow_html=True)
     with col4:
-        st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">General Covid-19 Databases</h2>', unsafe_allow_html=True)
+        st.markdown(f'<h2 style="font-weight: bold; padding-bottom: 0px;">General COVID-19 Databases</h2>', unsafe_allow_html=True)
         st.write("""Visualize any charts or information we have available""")
         database = st.selectbox('Select Database', ['Confirmed Cases and Deaths', 'Total Cases and Total Approved for Testing', 'Vaccines Administered'])
         if database == 'Confirmed Cases and Deaths':      
