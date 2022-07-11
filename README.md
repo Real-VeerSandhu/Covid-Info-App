@@ -3,4 +3,4 @@
 
 This was built using Streamlit, Python, and Pandas. 
 
-[Link to app](https://share.streamlit.io/real-veersandhu/covid-info-app/app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://covid-19-info-app-gec.herokuapp.com/)
